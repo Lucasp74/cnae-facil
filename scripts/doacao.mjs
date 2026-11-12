@@ -1,8 +1,8 @@
 // Atualiza a barra de doações (assets/apoio.svg) e o valor no README.
 //
 //   node scripts/doacao.mjs 350          -> define o total arrecadado à mão
-//   node scripts/doacao.mjs --mercadopago -> soma os pagamentos aprovados no Mercado Pago
-//                                            (precisa da variável MP_ACCESS_TOKEN)
+//   node scripts/doacao.mjs --mercadopago -> soma as doações pelo link do Mercado Pago (precisa da
+//                                            variável MP_ACCESS_TOKEN) e as de dados/doacoes-manuais.json
 //   node scripts/doacao.mjs --teste      -> confere os cálculos
 import { readFileSync, writeFileSync } from "node:fs";
 
@@ -51,11 +51,30 @@ async function totalMercadoPago() {
     if (offset + 100 >= paging.total) break;
   }
   const aprovados = pagamentos.filter(p => p.status === "approved");
-  // O repositório é público e o log da Action também: mostre só dados sem identificação de quem pagou.
-  console.log(`Pagamentos desde ${INICIO}: ${pagamentos.length}, aprovados: ${aprovados.length}`);
-  for (const p of aprovados) console.log(`- ${p.date_approved?.slice(0, 10)} ${reais(p.transaction_amount)} ${p.payment_type_id}/${p.payment_method_id} ${p.operation_type}`);
-  return aprovados.reduce((s, p) => s + p.transaction_amount, 0);
+  const doacoes = aprovados.filter(ehDoacao);
+  // O repositório e o log da Action são públicos, e a conta recebe outros pagamentos:
+  // nunca mostre valores ou dados de pagamentos que não são doações.
+  console.log(`Pagamentos aprovados na conta desde ${INICIO}: ${aprovados.length}. Doações identificadas: ${doacoes.length}.`);
+  for (const p of doacoes) console.log(`- ${p.date_approved?.slice(0, 10)} ${reais(p.transaction_amount)} ${p.payment_method_id}`);
+  // Diagnóstico do teste de R$ 1: mostra só os campos que podem identificar o link de doação.
+  for (const p of aprovados.filter(p => p.transaction_amount === 1)) {
+    console.log("Teste R$ 1:", JSON.stringify({
+      description: p.description, external_reference: p.external_reference, operation_type: p.operation_type,
+      payment_method_id: p.payment_method_id, poi: p.point_of_interaction?.type, poi_sub: p.point_of_interaction?.sub_type,
+      item: p.additional_info?.items?.[0]?.title, metadata: Object.keys(p.metadata || {}),
+    }));
+  }
+  return doacoes.reduce((s, p) => s + p.transaction_amount, 0);
 }
+
+// Como reconhecer um pagamento feito pelo link de doação. Será definido depois do teste de R$ 1;
+// até lá nenhum pagamento da API é contado, para não somar outras vendas da conta.
+const ehDoacao = p => false;
+
+// Pix feitos direto para a chave não têm como ser separados das outras vendas pela API.
+// Eles entram à mão em dados/doacoes-manuais.json.
+const manuais = () => ler("dados/doacoes-manuais.json").doacoes.reduce((s, d) => s + d.valor, 0);
+const ler = p => JSON.parse(readFileSync(new URL(p, raiz), "utf8"));
 
 function teste() {
   const ok = (c, m) => { if (!c) { console.error("FALHOU:", m); process.exit(1); } };
@@ -69,7 +88,7 @@ function teste() {
 const arg = process.argv[2];
 if (arg === "--teste") teste();
 else {
-  const total = arg === "--mercadopago" ? await totalMercadoPago() : Number(arg);
+  const total = arg === "--mercadopago" ? (await totalMercadoPago()) + manuais() : Number(arg);
   if (!Number.isFinite(total) || total < 0) { console.error("Uso: node scripts/doacao.mjs <total> | --mercadopago | --teste"); process.exit(1); }
   writeFileSync(new URL("assets/apoio.svg", raiz), svg(total));
   const readme = new URL("README.md", raiz);

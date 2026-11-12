@@ -1,0 +1,4 @@
+{
+ "sobre": "Doações recebidas direto pela chave Pix, que a automação não consegue separar das outras vendas da conta. Adicione uma linha por doação: {\"data\": \"AAAA-MM-DD\", \"valor\": 50}. Não coloque nome de quem doou aqui.",
+ "doacoes": []
+}
