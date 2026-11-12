@@ -1,5 +1,20 @@
 # CNAE Fácil
 
+## Apoie o projeto
+
+<p align="center"><img src="assets/apoio.svg" alt="Apoio ao projeto: R$ 0,00 de R$ 5.000,00 (0%)" width="720"></p>
+
+> [!IMPORTANT]
+> **Apoie via Pix · R$ 0,00 de R$ 5.000,00 (0%)**
+>
+> O CNAE Fácil é gratuito e aberto. Seu apoio paga a revisão das soluções por um contador e mantém os dados atualizados quando a lei muda.
+>
+> Quem apoiar entra na [lista de apoiadores](#apoiadores). Escreva seu nome no comentário do Pix.
+
+<p align="center">Chave Pix aleatória:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
+
+## O que é
+
 Descubra quais CNAEs colocar no CNPJ do seu negócio, de qualquer ramo, e qual enquadramento paga menos imposto dentro da lei. Os dados são oficiais (IBGE e Receita Federal) e estão em Markdown, prontos para você ler e para o Claude, o ChatGPT ou qualquer IA usar.
 
 > [!WARNING]
@@ -54,27 +69,14 @@ Clone o repositório e peça para a IA seguir o [AGENTS.md](AGENTS.md). Ou copie
 
 Dados consultados em 12/11/2026.
 
-## Apoie o projeto
-
-<p align="center"><img src="assets/apoio.svg" alt="Apoio ao projeto: R$ 0,00 de R$ 5.000,00 (0%)" width="720"></p>
-
-> [!IMPORTANT]
-> **Apoie via Pix · R$ 0,00 de R$ 5.000,00 (0%)**
->
-> O CNAE Fácil é gratuito e aberto. Seu apoio paga a revisão das soluções por um contador e mantém os dados atualizados quando a lei muda.
->
-> Quer aparecer na lista de apoiadores? Escreva o nome no comentário do Pix.
-
-<p align="center">Chave Pix aleatória:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
-
-### Apoiadores
-
-Seja o primeiro.
-
 ## Contribua
 
 Conhece bem um ramo de negócio? Escreva uma solução seguindo o [modelo](solucoes/MODELO.md) e abra um pull request. Toda solução precisa citar a fonte de cada regra.
 
+## Apoiadores
+
+Seja o primeiro.
+
 ## Licença
 
-[MIT](LICENSE)
+A classificação CNAE (IBGE/CONCLA), as leis e as resoluções reproduzidas aqui, como a Lei Complementar 123/2006 e a Resolução CGSN 140/2018, são **atos oficiais do poder público** e, pelo art. 8º, inciso IV, da Lei nº 9.610/1998, não são objeto de proteção autoral. Os scripts e os textos explicativos deste repositório estão sob a licença MIT. Veja [LICENSE](LICENSE).
