@@ -65,9 +65,7 @@ Dados consultados em 12/11/2026.
 >
 > Quer aparecer na lista de apoiadores? Escreva o nome no comentário do Pix.
 
-<p align="center"><img src="assets/qrcode-pix.png" alt="QR Code Pix" width="240"></p>
-
-<p align="center">Chave Pix aleatória:<br><code>a5a23853-a21e-4f98-a2c8-3247c54416a1</code></p>
+<p align="center">Chave Pix aleatória:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
 
 ### Apoiadores
 
