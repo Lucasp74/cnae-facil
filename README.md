@@ -11,7 +11,9 @@
 >
 > Quem apoiar entra na [lista de apoiadores](#apoiadores). Escreva seu nome no comentário do Pix.
 
-<p align="center">Chave Pix aleatória:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
+<p align="center"><a href="https://link.mercadopago.com.br/cnaefacil"><strong>Doe qualquer valor pelo Mercado Pago</strong></a><br>Pix, cartão ou boleto</p>
+
+<p align="center">Ou use a chave Pix aleatória:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
 
 ## O que é
 
