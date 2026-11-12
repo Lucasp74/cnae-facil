@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-label="Apoie o projeto: R$ 0,00 de R$ 5.000,00 (0%)">
-  <!-- Para atualizar: troque ARRECADADO, PORCENTAGEM e a largura da barra (largura = 600 x porcentagem / 100). -->
+  <!-- Gerado por scripts/doacao.mjs; não edite à mão. -->
   <rect width="720" height="170" rx="16" fill="#0f2a24"/>
   <rect x="24" y="24" width="4" height="122" rx="2" fill="#9be38a"/>
   <g font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">

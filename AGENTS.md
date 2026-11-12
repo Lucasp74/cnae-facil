@@ -15,3 +15,4 @@ Resumo das regras:
 - `cnae/` é gerada por `node scripts/gerar_cnae.mjs` a partir da API do IBGE. Não edite à mão.
 - `dados/` vem da Resolução CGSN 140/2018 (Anexos VI, VII e XI). Atualize quando a Receita publicar nova versão e rode o script de novo; ele confere se todos os códigos existem na CNAE 2.3.
 - Novas soluções seguem o modelo de [solucoes/MODELO.md](solucoes/MODELO.md).
+- A barra de doações (`assets/apoio.svg` e o valor no README) é atualizada por `scripts/doacao.mjs`, à mão (`node scripts/doacao.mjs 350`) ou pela Action `Atualizar doações`, que lê o Mercado Pago com o segredo `MP_ACCESS_TOKEN`. Não edite os valores à mão.
