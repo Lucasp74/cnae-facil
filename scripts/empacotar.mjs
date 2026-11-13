@@ -5,7 +5,7 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 // Aumente a cada versão publicada: quem instalou só recebe a atualização quando este número muda.
-const version = "1.0.0";
+const version = "1.0.1";
 
 const raiz = fileURLToPath(new URL("..", import.meta.url));
 const plugin = join(raiz, "plugin");

@@ -1,7 +1,7 @@
 {
   "name": "cnae-facil",
   "displayName": "CNAE Fácil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recomenda os CNAEs corretos para o CNPJ de qualquer negócio e o enquadramento que paga menos imposto dentro da lei (MEI, Simples Nacional, Fator R), com dados oficiais do IBGE e da Receita Federal.",
   "author": {
     "name": "Lucasp74",
