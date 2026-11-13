@@ -2,10 +2,10 @@
 
 ## Apoie o projeto
 
-<p align="center"><img src="assets/apoio.svg" alt="Apoio ao projeto: R$ 0,00 de R$ 5.000,00 (0%)" width="720"></p>
+<p align="center"><img src="assets/apoio.svg" alt="Apoio ao projeto: R$ 1,00 de R$ 5.000,00 (0%)" width="720"></p>
 
 > [!IMPORTANT]
-> **Apoie via Pix · R$ 0,00 de R$ 5.000,00 (0%)**
+> **Apoie via Pix · R$ 1,00 de R$ 5.000,00 (0%)**
 >
 > O CNAE Fácil é gratuito e aberto. Seu apoio paga a revisão das soluções por um contador e mantém os dados atualizados quando a lei muda.
 >

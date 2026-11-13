@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-label="Apoie o projeto: R$ 0,00 de R$ 5.000,00 (0%)">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-label="Apoie o projeto: R$ 1,00 de R$ 5.000,00 (0%)">
   <!-- Gerado por scripts/doacao.mjs; não edite à mão. -->
   <rect width="720" height="170" rx="16" fill="#0f2a24"/>
   <rect x="24" y="24" width="4" height="122" rx="2" fill="#9be38a"/>
   <g font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
     <text x="48" y="60" fill="#ffffff" font-size="26" font-weight="700">Apoie o CNAE Fácil</text>
     <text x="48" y="88" fill="#d6e5df" font-size="15">Seu apoio mantém os dados atualizados e paga a revisão por contador.</text>
-    <text x="48" y="122" fill="#ffffff" font-size="18" font-weight="700">R$ 0,00 / R$ 5.000,00</text>
+    <text x="48" y="122" fill="#ffffff" font-size="18" font-weight="700">R$ 1,00 / R$ 5.000,00</text>
     <text x="648" y="122" fill="#9be38a" font-size="16" font-weight="700" text-anchor="end">0%</text>
   </g>
   <rect x="48" y="134" width="600" height="12" rx="6" fill="#2b4740"/>
