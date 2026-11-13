@@ -1,0 +1,876 @@
+# Divisão 25: FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS  E EQUIPAMENTOS
+
+Seção C: INDÚSTRIAS DE TRANSFORMAÇÃO
+
+Fonte: IBGE, CNAE-Subclasses 2.3 (API servicodados.ibge.gov.br). Simples Nacional e MEI: Resolução CGSN 140/2018, Anexos VI, VII e XI. Arquivo gerado por `scripts/gerar_cnae.mjs`; não edite à mão.
+
+Cada atividade aparece na ordem natural e termina com o código da subclasse, para que uma busca por palavra já mostre o código.
+
+## Grupo 25.1: FABRICAÇÃO DE ESTRUTURAS METÁLICAS E OBRAS DE CALDEIRARIA PESADA
+
+### Classe 25.11-0: FABRICAÇÃO DE ESTRUTURAS METÁLICAS
+
+**Inclui:**
+- a fabricação de estruturas metálicas para edifícios, galpões, silos, pontes, viadutos e outras construções semelhantes
+- a fabricação de estruturas metálicas para torres de transmissão de energia elétrica, para antenas transmissoras de comunicação e para extração de petróleo, etc.
+- a fabricação de andaimes tubulares
+- a fabricação de elementos modulares para exposições
+- a fabricação de edificações pré-fabricadas de metal
+
+**Inclui:**
+- a montagem de estruturas metálicas quando executada pela unidade fabricante
+
+**Não inclui:**
+- a fabricação de obras de caldeiraria pesada para máquinas e equipamentos (25.13-6)
+- o serviço de confecção de armações metálicas para a construção (25.99-3)
+- a fabricação de estruturas para embarcações e de estruturas flutuantes (30.11-3)
+- a montagem de estruturas metálicas, quando realizada por unidade especializada (42.92-8)
+
+#### 2511-0/00: FABRICAÇÃO DE ESTRUTURAS METÁLICAS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- ESTRUTURA METÁLICA PARA GALPÕES, COBERTURAS E SILOS FABRICAÇÃO DE `2511-0/00`
+- FABRICAÇÃO DE ANDAIMES TUBULARES `2511-0/00`
+- FABRICAÇÃO DE CONSTRUÇÕES PRÉ-FABRICADAS DE METAL `2511-0/00`
+- FABRICAÇÃO DE CONTÊINERES (CONTAINERS, CONTENTORES) TRANSFORMADOS OU ADAPTADOS PARA USO NA CONSTRUÇÃO CIVIL `2511-0/00`
+- FABRICAÇÃO DE ELEMENTOS MODULARES (MÓDULOS) DE METAL PARA EXPOSIÇÕES `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURA METÁLICA PARA ANTENAS DE EMISSORAS DE RADIO E TELEVISÃO `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURA METÁLICA PARA EDIFÍCIOS COMERCIAIS E RESIDENCIAIS `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURA METÁLICA PARA PASSARELAS `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURA METÁLICA PARA PONTES E VIADUTOS `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURA METÁLICA PARA SUBESTAÇÕES `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURA METALICA PARA TELECOMUNICACOES `2511-0/00`
+- FABRICAÇÃO DE ESTRUTURAS METÁLICAS, N.E. `2511-0/00`
+- FABRICAÇÃO DE PONTES E ELEMENTOS DE PONTES DE FERRO E AÇO `2511-0/00`
+- FABRICAÇÃO DE PORTA PALETES E ESTRUTURAS METÁLICAS SEMELHANTES PARA ARMAZENAGEM `2511-0/00`
+- FABRICAÇÃO DE QUIOSQUES METÁLICOS PARA CAIXAS ELETRÔNICOS `2511-0/00`
+- FABRICAÇÃO DE TORRES DE TELEGRAFIA `2511-0/00`
+- FABRICAÇÃO DE TORRES E PÓRTICOS (PILARES) DE FERRO E AÇO `2511-0/00`
+- FABRICAÇÃO DE TORRES METÁLICAS PARA LINHAS DE TRANSMISSÃO ELÉTRICA, TELETRANSMISSÃO, ETC. `2511-0/00`
+- FABRICAÇÃO DE TORRES PARA EXTRAÇÃO DE PETRÓLEO `2511-0/00`
+- MONTAGEM DE, QUANDO REALIZADA PELA UNIDADE FABRICANTE ESTRUTURAS METÁLICAS `2511-0/00`
+
+### Classe 25.12-8: FABRICAÇÃO DE ESQUADRIAS DE METAL
+
+**Inclui:**
+- a fabricação de esquadrias de metal (portões, marcos e batentes, grades, portas metálicas onduladas, portas corta-fogo, etc.)
+
+**Inclui:**
+- a instalação de esquadrias metálicas quando realizada pela unidade fabricante
+
+**Não inclui:**
+- a instalação de esquadrias metálicas quando realizada por unidade especializada (43.30-4)
+
+#### 2512-8/00: FABRICAÇÃO DE ESQUADRIAS DE METAL
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE ESQUADRIAS METÁLICAS, SOB ENCOMENDA OU NÃO, INDEPENDENTE
+
+Atividades:
+
+- ESQUADRIAS METÁLICAS (MARCOS, BATENTES E SEMELHANTES), FABRICAÇÃO DE `2512-8/00`
+- FABRICAÇÃO DE  ESQUADRIAS DE ALUMÍNIO `2512-8/00`
+- FABRICAÇÃO DE BALAUSTRADAS E BALCÕES, PORTÕES E PORTAS CORREDIÇOS DE FERRO E AÇO `2512-8/00`
+- FABRICAÇÃO DE BASCULANTES METÁLICAS `2512-8/00`
+- FABRICAÇÃO DE BOX PARA BANHEIRO COM ESTRUTURA DE ALUMÍNIO `2512-8/00`
+- FABRICAÇÃO DE ESQUADRIAS DE FERRO E AÇO `2512-8/00`
+- FABRICAÇÃO DE ESQUADRIAS DE METAIS NÃO-FERROSOS `2512-8/00`
+- FABRICAÇÃO DE FECHAMENTO DE ÁREA `2512-8/00`
+- FABRICAÇÃO DE GRADES METÁLICAS `2512-8/00`
+- FABRICAÇÃO DE JANELA DE CORRER COM GRADE `2512-8/00`
+- FABRICAÇÃO DE JANELAS DE ALUMÍNIO `2512-8/00`
+- FABRICAÇÃO DE JANELAS METÁLICAS `2512-8/00`
+- FABRICAÇÃO DE PORTAS DE AÇO ONDULADAS OU FRISADAS `2512-8/00`
+- FABRICAÇÃO DE PORTAS DE ALUMÍNIO `2512-8/00`
+- FABRICAÇÃO DE PORTAS E DIVISÕES SANFONADAS, REVESTIDAS DE QUALQUER MATERIAL `2512-8/00`
+- FABRICAÇÃO DE PORTAS METÁLICAS `2512-8/00`
+- FABRICAÇÃO DE PORTAS PANTOGRÁFICAS `2512-8/00`
+- FABRICAÇÃO DE PORTÕES METÁLICOS `2512-8/00`
+- FABRICAÇÃO DE PRODUTOS DE SERRALHERIA ARTÍSTICA `2512-8/00`
+- FABRICAÇÃO DE VENEZIANAS DE METAL `2512-8/00`
+- MONTAGEM DE ESQUADRIAS METÁLICAS (QUANDO EXECUTADA PELA UNIDADE FABRICANTE), SERVIÇO DE `2512-8/00`
+- MONTAGEM DE, QUANDO REALIZADA PELA UNIDADE FABRICANTE ESQUADRIAS METÁLICAS `2512-8/00`
+- PORTAS METÁLICAS CONTRA INCÊNDIO (CORTA-FOGO), FABRICAÇÃO DE `2512-8/00`
+- SERRALHERIA PARA ESQUADRIAS `2512-8/00`
+- SERVIÇOS DE MANUTENÇÃO, REFORMA DE PORTÕES E ESQUADRIAS DE METAL `2512-8/00`
+
+### Classe 25.13-6: FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA
+
+**Inclui:**
+- a fabricação de obras de caldeiraria pesada para as indústrias mecânica, química, siderúrgica, etc. (turbinas, colunas de processamento, moinhos, fornos, vasos de pressão e semelhantes)
+- a fabricação de obras de caldeiraria pesada para a indústria da construção naval (painéis de escotilha, mastros tubulares, etc.)
+- a fabricação de obras de caldeiraria pesada para a indústria de veículos ferroviários
+- a fabricação de obras de caldeiraria pesada para aplicações em hidrovias e hidrelétricas (grades, limpa-grades, condutos forçados, comportas, bifurcações, etc.)
+- a fabricação de obras de caldeiraria pesada para aplicações industriais não especificadas anteriormente
+
+**Inclui:**
+- a montagem de obras de caldeiraria pesada quando executada pela unidade fabricante
+
+**Não inclui:**
+- a fabricação de estruturas para embarcações e de estruturas flutuantes (30.11-3)
+- a montagem de obras de caldeiraria pesada quando executada por unidade especializada (33.21-0)
+
+#### 2513-6/00: FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE COMPORTAS `2513-6/00`
+- FABRICAÇÃO DE COMPORTAS DE EMERGÊNCIA `2513-6/00`
+- FABRICAÇÃO DE CONDUTOS FORÇADOS (CALDEIRARIA PESADA) `2513-6/00`
+- FABRICAÇÃO DE ESCOTILHAS `2513-6/00`
+- FABRICAÇÃO DE LIMPA-GRADES (CALDEIRARIA PESADA) `2513-6/00`
+- FABRICAÇÃO DE MASTROS TUBULARES `2513-6/00`
+- FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA PARA APLICAÇÕES EM HIDROVIAS E HIDRELÉTRICAS `2513-6/00`
+- FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA PARA AS INDUSTRIAS MECÂNICA, QUÍMICA, SIDERÚRGICA, ETC `2513-6/00`
+- FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA PARA CONSTRUÇÃO NAVAL `2513-6/00`
+- FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA PARA INDUSTRIA FERROVIÁRIA `2513-6/00`
+- FABRICAÇÃO DE PAINÉIS DE ESCOTILHA PARA CONVÉS `2513-6/00`
+- FABRICAÇÃO DE PEÇAS E OBRAS DIVERSAS DE CALDEIRARIA PESADA `2513-6/00`
+- MONTAGEM DE, QUANDO REALIZADA PELA UNIDADE FABRICANTE PEÇAS E OBRAS DE CALDEIRARIA PESADA `2513-6/00`
+
+## Grupo 25.2: FABRICAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS
+
+### Classe 25.21-7: FABRICAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS PARA AQUECIMENTO CENTRAL
+
+**Inclui:**
+- a fabricação de tanques e reservatórios para combustíveis, lubrificantes, gás comprimido e gás liqüefeito, etc.
+- a fabricação de tanques e reservatórios cilíndricos, de teto fixo, flutuantes, etc., para armazenamento e processamento de materiais
+- a fabricação de recipientes metálicos para gases comprimidos e liqüefeitos, de qualquer capacidade
+- a fabricação de caldeiras geradoras de vapor para aquecimento central
+- a fabricação cilindros para extintores de incêndio e semelhantes
+
+**Inclui:**
+- a fabricação de peças e acessórios de tanques, reservatórios e caldeiras para aquecimento central
+- a instalação de tanques, reservatórios e caldeiras para aquecimento central quando executada pela unidade fabricante
+
+**Não inclui:**
+- a fabricação de caldeiras geradoras de vapor para usos diversos (exceto para aquecimento central) (25.22-5)
+- a fabricação de artigos de caldeiraria leve (25.91-8)
+- a fabricação de caldeiras geradoras de vapor para veículos (28.11-9)
+- a fabricação de contêineres (29.30-1)
+- a manutenção e reparação de tanques, reservatórios e caldeiras para aquecimento central quando executada por unidade especializada (33.11-2)
+- a instalação de tanques, reservatórios e caldeiras para aquecimento central quando executada por unidade especializada (33.21-0)
+
+#### 2521-7/00: FABRICAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS PARA AQUECIMENTO CENTRAL
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE BOTIJÕES PARA GÁS `2521-7/00`
+- FABRICAÇÃO DE BUJÕES PARA GÁS `2521-7/00`
+- FABRICAÇÃO DE BUJÕES, GARRAFAS E CILINDROS METÁLICOS PARA EMBALAR GASES `2521-7/00`
+- FABRICAÇÃO DE CALDEIRAS GERADORAS DE VAPOR PARA AQUECIMENTO CENTRAL `2521-7/00`
+- FABRICAÇÃO DE CILINDROS DE FERRO PARA EMBALAR GASES `2521-7/00`
+- FABRICAÇÃO DE CILINDROS DE FERRO PARA EXTINTORES DE INCÊNDIO `2521-7/00`
+- FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA CALDEIRAS GERADORAS DE VAPOR PARA AQUECIMENTO CENTRAL `2521-7/00`
+- FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA TANQUES E RESERVATÓRIOS `2521-7/00`
+- FABRICAÇÃO DE RECIPIENTES DE QUALQUER CAPACIDADE PARA TRANSPORTE E ARMAZENAGEM DE GASES COMPRIMIDOS E LIQUEFEITOS `2521-7/00`
+- FABRICAÇÃO DE RESERVATÓRIOS METÁLICOS PARA ÁGUA POTÁVEL `2521-7/00`
+- FABRICAÇÃO DE TANQUES DE FERRO E AÇO, N.E. - INCLUSIVE RESERVATÓRIOS PARA COMBUSTÍVEIS E LUBRIFICANTES `2521-7/00`
+- FABRICAÇÃO DE TANQUES E RESERVATÓRIOS - INCLUSIVE DE AÇO INOXIDÁVEL, CILÍNDRICOS `2521-7/00`
+- FABRICAÇÃO DE TANQUES E RESERVATÓRIOS - INCLUSIVE DE AÇO INOXIDÁVEL, DE TETOS FIXOS `2521-7/00`
+- FABRICAÇÃO DE TANQUES E RESERVATÓRIOS - INCLUSIVE DE AÇO INOXIDÁVEL, DE TETOS FLUTUANTES `2521-7/00`
+- FABRICAÇÃO DE TANQUES E RESERVATÓRIOS - INCLUSIVE DE AÇO INOXIDÁVEL, ESFÉRICOS `2521-7/00`
+- FABRICAÇÃO DE TUBOS E GARRAFAS METÁLICOS PARA TRANSPORTE DE GASES COMPRIMIDOS E LIQUEFEITOS `2521-7/00`
+
+### Classe 25.22-5: FABRICAÇÃO DE CALDEIRAS GERADORAS DE VAPOR, EXCETO PARA AQUECIMENTO CENTRAL E PARA VEÍCULOS
+
+**Inclui:**
+- a fabricação de caldeiras geradoras de vapor para usos diversos
+- a fabricação de reatores nucleares
+- a fabricação de economizadores, cilindros coletores e outros equipamentos auxiliares para utilização com geradores de vapor
+
+**Inclui:**
+- a fabricação de peças e acessórios para caldeiras geradoras de vapor, exceto para aquecimento central e para veículos
+- a montagem, instalação e manutenção de caldeiras geradoras de vapor (exceto para aquecimento central e para veículos) quando executada pela unidade fabricante
+
+**Não inclui:**
+- a fabricação de caldeiras geradoras de vapor para aquecimento central (25.21-7)
+- a fabricação de caldeiras geradoras de vapor para veículos (28.11-9)
+- a manutenção e reparação de caldeiras geradoras de vapor (exceto para aquecimento central e para veículos), quando executada por unidade especializada (33.11-2)
+- a montagem e instalação de caldeiras geradoras de vapor (exceto para aquecimento central e para veículos) quando executada por unidade especializada (33.21-0)
+
+#### 2522-5/00: FABRICAÇÃO DE CALDEIRAS GERADORAS DE VAPOR, EXCETO PARA AQUECIMENTO CENTRAL E PARA VEÍCULOS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE CALDEIRAS GERADORAS DE VAPOR PARA USOS DIVERSOS - EXCETO PARA AQUECIMENTO CENTRAL E PARA VEÍCULOS `2522-5/00`
+- FABRICAÇÃO DE CILINDROS COLETORES `2522-5/00`
+- FABRICAÇÃO DE CONDENSADORES PARA MÁQUINAS A VAPOR `2522-5/00`
+- FABRICAÇÃO DE ECONOMIZADOR UTILIZADO COM GERADORES DE VAPOR `2522-5/00`
+- FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA CALDEIRAS GERADORAS DE VAPOR, EXCETO PARA AQUECIMENTO CENTRAL E PARA VEÍCULOS `2522-5/00`
+- FABRICAÇÃO DE REATORES NUCLEARES `2522-5/00`
+
+## Grupo 25.3: FORJARIA, ESTAMPARIA, METALURGIA DO PÓ E SERVIÇOS DE TRATAMENTO DE METAIS
+
+### Classe 25.31-4: PRODUÇÃO DE FORJADOS DE AÇO E DE METAIS NÃO FERROSOS E SUAS LIGAS
+
+**Inclui:**
+- a fabricação de forjados em aço-carbono, aços especiais e ligas de aço
+- a fabricação de forjados de metais não-ferrosos e suas ligas
+
+#### 2531-4/01: PRODUÇÃO DE FORJADOS DE AÇO
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE PEÇAS FORJADAS DE FERRO E AÇO, N.E. `2531-4/01`
+- PRODUÇÃO DE BLOCOS FORJADOS DE AÇO FERRAMENTA, NÃO USINADOS `2531-4/01`
+- PRODUÇÃO DE DISCOS, EIXOS E CILINDROS FORJADOS DE AÇO CONSTRUÇÃO MECÂNICA `2531-4/01`
+- PRODUÇÃO DE FERRO E AÇO FORJADO EM FORMAS E PECAS, N. E. `2531-4/01`
+- SERVIÇO DE FORJARIA DE AÇO `2531-4/01`
+- SERVIÇO DE FORJARIA DE PEÇAS DE METAIS FERROSOS `2531-4/01`
+
+#### 2531-4/02: PRODUÇÃO DE FORJADOS DE METAIS NÃO FERROSOS E SUAS LIGAS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- PRODUÇÃO DE METAIS NÃO-FERROSOS FORJADOS EM FORMAS E PECAS `2531-4/02`
+- SERVIÇO DE FORJARIA DE METAIS NÃO-FERROSOS `2531-4/02`
+
+### Classe 25.32-2: PRODUÇÃO DE ARTEFATOS ESTAMPADOS DE METAL; METALURGIA DO PÓ
+
+**Inclui:**
+- a fabricação de artefatos estampados de ferro e aço e suas ligas
+- a fabricação de artefatos estampados de metais não-ferrosos e suas ligas
+- a fabricação de peças repuxadas de metal
+- a fabricação de peças moldadas em pó metálico (sinterizadas) e revestidas
+
+**Inclui:**
+- a fabricação de artefatos de funilaria (baldes, regadores, calhas e condutores para água e artefatos semelhantes)
+
+**Não inclui:**
+- a fabricação de talheres de metal (25.41-1)
+- a fabricação de utensílios domésticos metálicos estampados (25.93-4)
+
+#### 2532-2/01: PRODUÇÃO DE ARTEFATOS ESTAMPADOS DE METAL
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE ARTEFATOS DE FUNILARIA INDEPENDENTE; FABRICANTE DE ARTEFATOS ESTAMPADOS DE METAL, SOB ENCOMENDA OU NÃO, INDEPENDENTE
+
+Atividades:
+
+- ARTIGOS DE FUNILARIA, FABRICAÇÃO DE `2532-2/01`
+- FABRICAÇÃO DE ARMAÇÕES METÁLICAS PARA GUARDA-CHUVAS E SOMBRINHAS `2532-2/01`
+- FABRICAÇÃO DE ARTEFATOS DIVERSOS DE COBRE ESTAMPADO `2532-2/01`
+- FABRICAÇÃO DE ARTEFATOS DIVERSOS DE FERRO E AÇO ESTAMPADO, REPUXADO OU CONFORMADO, EXCETO PARA A INDÚSTRIA AUTOMOBILÍSTICA `2532-2/01`
+- FABRICAÇÃO DE ARTEFATOS DIVERSOS DE METAIS NÃO FERROSOS ESTAMPADOS, EXCETO COBRE `2532-2/01`
+- FABRICAÇÃO DE ARTEFATOS ESTAMPADOS DE METAL, EXCETO UTENSÍLIOS DOMÉSTICOS `2532-2/01`
+- FABRICAÇÃO DE BALDES METÁLICOS `2532-2/01`
+- FABRICAÇÃO DE CAIXAS E ESTOJOS PARA FERRAMENTAS, COSMÉTICOS (ESTOJOS PARA PINTURA DO ROSTO), CIGARREIRAS, ETC. `2532-2/01`
+- FABRICAÇÃO DE PEÇAS ESTAMPADAS DE FERRO E AÇO, EXCETO UTENSÍLIOS DOMÉSTICOS `2532-2/01`
+- FABRICAÇÃO DE PEÇAS METÁLICAS ESTAMPADAS, N.E. `2532-2/01`
+- FABRICAÇÃO DE PEÇAS METÁLICAS REPUXADAS `2532-2/01`
+- FABRICAÇÃO DE REGADORES METÁLICOS `2532-2/01`
+- FABRICAÇÃO DE TELHAS DE ALUMÍNIO `2532-2/01`
+- FABRICAÇÃO DE TELHAS METÁLICAS ESTAMPADAS, LISAS OU ONDULADAS `2532-2/01`
+- PRODUÇÃO DE CALHAS E CONDUTORES METALICOS (ARTEFATOS DE FUNILARIA) `2532-2/01`
+- PRODUÇÃO DE TELHAS DE ZINCO `2532-2/01`
+- SERVIÇO DE ESTAMPARIA DE FERRO E AÇO `2532-2/01`
+- SERVIÇO DE ESTAMPARIA DE METAIS `2532-2/01`
+- SERVIÇO DE ESTAMPARIA DE METAIS NÃO-FERROSOS `2532-2/01`
+
+#### 2532-2/02: METALURGIA DO PÓ
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE PEÇAS MOLDADAS EM PÓ METÁLICO (SINTERIZADAS) OU REVESTIDAS `2532-2/02`
+- FABRICAÇÃO DE PRODUTOS DA METALURGIA DO PÓ `2532-2/02`
+- PRODUÇÃO DE BUCHAS AUTOLUBRIFICANTES SINTERIZADAS `2532-2/02`
+- PRODUÇÃO DE PEÇAS MOLDADAS EM PÓ METÁLICO (SINTERIZADAS) OU REVESTIDAS `2532-2/02`
+- PRODUÇÃO DE PEÇAS SINTERIZADAS `2532-2/02`
+
+### Classe 25.39-0: SERVIÇOS DE USINAGEM, SOLDA, TRATAMENTO E REVESTIMENTO EM METAIS
+
+**Inclui:**
+- os serviços de tratamento de metais realizados sob contrato:
+  - os serviços industriais de usinagem (torno, fresa, etc.), soldas e semelhantes
+  - os serviços de têmpera, cementação, tratamento térmico do aço e o recozimento de arames
+  - os serviços de galvanotécnica (cobreagem, cromagem, estanhagem, douração, zincagem, niquelação, esmaltagem, anodização e serviços afins)
+  - os serviços de engenharia mecânica (acabamento de peças metálicas, afiação, união e outros acabamentos em peças metálicas)
+  - o serviço de pintura industrial
+  - o serviço industrial de polimento de metais
+  - o serviço industrial de revestimentos não-metálicos em metais
+
+**Não inclui:**
+- a fundição de ferro e aço (24.51-2) ou de metais não-ferrosos (24.52-1)
+- a forjaria de ferro e aço ou de metais não-ferrosos (25.31-4)
+
+#### 2539-0/01: SERVIÇOS DE USINAGEM, TORNEARIA E SOLDA
+
+- Simples Nacional: permitido
+- MEI: **sim**: SOLDADOR(A)/BRASADOR(A) INDEPENDENTE; TORNEIRO(A) MECÂNICO INDEPENDENTE
+
+Atividades:
+
+- SERVIÇO DE FRESAGEM `2539-0/01`
+- SERVIÇO DE JATO DE AREIA (JATEAMENTO-USINAGEM) `2539-0/01`
+- SERVIÇO DE SOLDA `2539-0/01`
+- SERVIÇO DE TORNEARIA `2539-0/01`
+- SERVIÇO DE USINAGEM (TORNO, FRESA, ETC) `2539-0/01`
+- SERVIÇOS DE JATEAMENTO DE GRANALHAS `2539-0/01`
+- SERVIÇOS DE JATEAMENTO EM PEÇAS, MÁQUINAS E EQUIPAMENTOS `2539-0/01`
+
+#### 2539-0/02: SERVIÇOS DE TRATAMENTO E REVESTIMENTO EM METAIS
+
+- Simples Nacional: permitido
+- MEI: **sim**: GALVANIZADOR(A) INDEPENDENTE
+
+Atividades:
+
+- CHAPAS E PECAS METÁLICAS, IMPRESSÃO DE `2539-0/02`
+- SERVIÇO DE ANODIZAÇÃO `2539-0/02`
+- SERVIÇO DE COBREAGEM `2539-0/02`
+- SERVIÇO DE CROMAGEM `2539-0/02`
+- SERVIÇO DE DECAPAGEM `2539-0/02`
+- SERVIÇO DE DOURAÇÃO EM METAIS `2539-0/02`
+- SERVIÇO DE ESMALTAGEM `2539-0/02`
+- SERVIÇO DE ESTANHAGEM `2539-0/02`
+- SERVIÇO DE GALVANOPLASTIA `2539-0/02`
+- SERVIÇO DE NIQUELAÇÃO `2539-0/02`
+- SERVIÇO DE PINTURA ELETROSTÁTICA `2539-0/02`
+- SERVIÇO DE PINTURA EM PRODUTOS METÁLICOS `2539-0/02`
+- SERVIÇO DE PINTURA INDUSTRIAL `2539-0/02`
+- SERVIÇO DE POLIMENTO DE METAIS `2539-0/02`
+- SERVIÇO DE TEMPERA, CEMENTAÇÃO DE AÇO, RECOZIMENTO DE ARAME, TRATAMENTO TÉRMICO `2539-0/02`
+- SERVIÇO DE TRATAMENTO TÉRMICO DO AÇO `2539-0/02`
+- SERVIÇO DE ZINCAGEM `2539-0/02`
+- SERVIÇOS DE AFIAÇÃO, AMOLAR FERRAMENTAS (FACAS, FACÕES, EXCETO DE USO PESSOAL E DOMÉSTICO) `2539-0/02`
+- SERVIÇOS DE CRIOGENIA EM FERRAMENTAS `2539-0/02`
+- SERVIÇOS DE GALVANIZAÇÃO `2539-0/02`
+- SERVIÇOS DE GRAVAÇÃO A LASER EM METAIS `2539-0/02`
+- SERVIÇOS DE GRAVAÇÃO EM PLACAS METÁLICAS AUTOMOTIVAS `2539-0/02`
+- SERVIÇOS DE METALIZAÇÃO `2539-0/02`
+- SERVIÇOS DE REVESTIMENTO NÃO METÁLICO EM METAIS (PLASTIFICAÇÃO, LACAGEM, ETC) `2539-0/02`
+- SERVIÇOS DE TRATAMENTO E REVESTIMENTO EM METAIS `2539-0/02`
+
+## Grupo 25.4: FABRICAÇÃO DE ARTIGOS DE CUTELARIA, DE SERRALHERIA E FERRAMENTAS
+
+### Classe 25.41-1: FABRICAÇÃO DE ARTIGOS DE CUTELARIA
+
+**Inclui:**
+- a fabricação de artefatos de cutelaria para uso doméstico (colheres, garfos, facas, faqueiros completos e semelhantes)
+- a fabricação de artefatos de cutelaria para usos diversos (tesouras, aparelhos não-elétricos de barbear, alicates para unhas e semelhantes)
+
+**Inclui:**
+- a fabricação de armas brancas (navalhas, canivetes, espadas, etc.)
+
+**Não inclui:**
+- a fabricação de facões para trabalhos agrícolas e jardinagem (25.43-8)
+- a fabricação de artefatos de cutelaria de metais preciosos (32.11-6)
+
+#### 2541-1/00: FABRICAÇÃO DE ARTIGOS DE CUTELARIA
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE ARTIGOS DE CUTELARIA INDEPENDENTE
+
+Atividades:
+
+- FABRICAÇÃO DE ALICATES PARA UNHAS `2541-1/00`
+- FABRICAÇÃO DE APARELHOS DE BARBEAR METÁLICOS, NÃO-ELÉTRICOS `2541-1/00`
+- FABRICAÇÃO DE APARELHOS DE BARBEAR, MESMO DE PLÁSTICO `2541-1/00`
+- FABRICAÇÃO DE ARMAS BRANCAS (NAVALHAS, CANIVETES, ETC) `2541-1/00`
+- FABRICAÇÃO DE ARTEFATOS DE CUTELARIA, N.E. `2541-1/00`
+- FABRICAÇÃO DE CANIVETES `2541-1/00`
+- FABRICAÇÃO DE COLHERES, GARFOS E FACAS DE METAL `2541-1/00`
+- FABRICAÇÃO DE CONCHAS E ESCUMADEIRAS DE METAL `2541-1/00`
+- FABRICAÇÃO DE CORTADORES DE UNHAS `2541-1/00`
+- FABRICAÇÃO DE ESPADAS `2541-1/00`
+- FABRICAÇÃO DE ESPÁTULAS, ABRE-CARTAS, CORTA-PAPEIS E OUTROS ARTEFATOS DE CUTELARIA PARA ESCRITÓRIO `2541-1/00`
+- FABRICAÇÃO DE FACÕES - EXCETO PARA USO PROFISSIONAL `2541-1/00`
+- FABRICAÇÃO DE FAQUEIROS COMPLETOS DE METAL COMUM `2541-1/00`
+- FABRICAÇÃO DE FLORETES E ESPADAS `2541-1/00`
+- FABRICAÇÃO DE LAMINAS PARA BARBEAR `2541-1/00`
+- FABRICAÇÃO DE SABRES E PUNHAIS `2541-1/00`
+- FABRICAÇÃO DE TALHERES DE METAIS (EXCETO DE METAIS PRECIOSOS) `2541-1/00`
+- FABRICAÇÃO DE TESOURAS, EXCETO PARA CORTAR METAIS `2541-1/00`
+
+### Classe 25.42-0: FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS
+
+**Inclui:**
+- a fabricação de cadeados, fechaduras e guarnições; ferragens para construção, para móveis, bolsas, malas; dobradiças, trincos, lâminas para chaves, etc.
+- a fabricação de conexões, joelhos, luvas e outros artefatos para encanamentos confeccionados em serralherias
+- a fabricação de artefatos diversos de serralheria e caldeiraria leve
+
+**Não inclui:**
+- a fabricação de esquadrias metálicas (25.12-8)
+- a fabricação de obras de caldeiraria pesada (25.13-6)
+- o serviço de confecção de armações metálicas para a construção (25.99-3)
+- a fabricação de artefatos de serralheria para uso doméstico (25.93-4)
+
+#### 2542-0/00: FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: SERRALHEIRO(A), EXCETO PARA ESQUADRIAS, SOB ENCOMENDA OU NÃO, INDEPENDENTE
+
+Atividades:
+
+- FABRICAÇÃO DE ALÇAS E PUXADORES METÁLICOS `2542-0/00`
+- FABRICAÇÃO DE ARTEFATOS DE SERRALHERIA, EXCETO ESQUADRIAS `2542-0/00`
+- FABRICAÇÃO DE ARTEFATOS PARA ENCANAMENTOS CONFECCIONADOS EM SERRALHERIAS `2542-0/00`
+- FABRICAÇÃO DE BOX PARA BANHEIRO COM ESTRUTURA DE ALUMÍNIO `2542-0/00`
+- FABRICAÇÃO DE CADEADOS `2542-0/00`
+- FABRICAÇÃO DE CHAVES PARA FECHADURAS `2542-0/00`
+- FABRICAÇÃO DE CHAVES PARA FECHADURAS DE VEÍCULOS `2542-0/00`
+- FABRICAÇÃO DE COBERTURA METÁLICA MODULAR DESMONTÁVEL `2542-0/00`
+- FABRICAÇÃO DE COBERTURAS METÁLICAS PARA VEÍCULOS E OUTROS USOS RESIDENCIAIS `2542-0/00`
+- FABRICAÇÃO DE CORRIMÃO METÁLICO `2542-0/00`
+- FABRICAÇÃO DE DOBRADIÇAS `2542-0/00`
+- FABRICAÇÃO DE ESPORAS, ESTRIBOS E FREIOS `2542-0/00`
+- FABRICAÇÃO DE FECHADURAS PARA VEÍCULOS `2542-0/00`
+- FABRICAÇÃO DE FECHADURAS, GUARNIÇÕES E OUTRAS FERRAGENS PARA CONSTRUÇÃO `2542-0/00`
+- FABRICAÇÃO DE FECHADURAS, GUARNIÇÕES E SEMELHANTES PARA MOVEIS, BOLSAS, MALAS `2542-0/00`
+- FABRICAÇÃO DE FERRAGENS PARA BOLSAS, MALAS, PASTAS E SEMELHANTES `2542-0/00`
+- FABRICAÇÃO DE FERRAGENS PARA MOVEIS, N.E. `2542-0/00`
+- FABRICAÇÃO DE FERRAGENS PARA SELARIA `2542-0/00`
+- FABRICAÇÃO DE GUARNIÇÕES, FERRAGENS E ARTEFATOS SEMELHANTES PARA CONSTRUÇÃO CIVIL `2542-0/00`
+- FABRICAÇÃO DE GUARNIÇÕES, FERRAGENS E ARTEFATOS SEMELHANTES PARA USOS NÃO ESPECIFICADOS `2542-0/00`
+- FABRICAÇÃO DE GUARNIÇÕES, FERRAGENS E ARTEFATOS SEMELHANTES PARA VEÍCULOS AUTOMOTORES `2542-0/00`
+- FABRICAÇÃO DE PARTES E PEÇAS PARA CADEADOS, FECHADURAS E FERROLHOS `2542-0/00`
+- FABRICAÇÃO DE PRODUTOS DE CALDEIRARIA LEVE `2542-0/00`
+- FABRICAÇÃO DE RODÍZIOS, COM RODAS DE QUALQUER MATERIAL `2542-0/00`
+- FABRICAÇÃO DE SUPORTE METÁLICO PARA FORNO E PARA TV `2542-0/00`
+- FABRICAÇÃO DE TOLDOS EM ALUMÍNIO `2542-0/00`
+- FABRICAÇÃO DE TRAVAS DE SEGURANÇA `2542-0/00`
+- SERRALHERIA (EXCETO ESQUADRIAS) `2542-0/00`
+- TANQUES PARA TRANSFORMADORES, FABRICAÇÃO DE `2542-0/00`
+
+### Classe 25.43-8: FABRICAÇÃO DE FERRAMENTAS
+
+**Inclui:**
+- a fabricação de enxadas, facões agrícolas, cavadeiras e outras ferramentas e utensílios para a agricultura
+- a fabricação de pás, picaretas, serras manuais, chaves de fenda, inglesa, colheres para pedreiros, limas, grosas e semelhantes; almotolias; martelos, plainas manuais, etc.
+- a fabricação de serras e lâminas para serras; facas e tesouras para máquinas e aparelhos mecânicos
+- a fabricação de acessórios intercambiáveis para ferramentas manuais, mecânicas e para máquinas-ferramenta (brocas, pontas, punções, fresas, placas e acessórios similares)
+
+**Inclui:**
+- a fabricação de caixas, moldes, modelos e matrizes
+
+**Não inclui:**
+- a fabricação de máquinas-ferramenta (28.40-2)
+- a fabricação de ferramentas elétricas manuais (furadeiras, politrizes, etc.) (28.40-2)
+- a fabricação de lingoteiras para siderurgia (28.61-5)
+
+#### 2543-8/00: FABRICAÇÃO DE FERRAMENTAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FERRAMENTEIRO(A) INDEPENDENTE; FERREIRO/FORJADOR INDEPENDENTE
+
+Atividades:
+
+- BROCAS PARA MINERAÇÃO, FABRICAÇÃO DE `2543-8/00`
+- FABRICAÇÃO DE ALAVANCAS E PÉS-DE-CABRA `2543-8/00`
+- FABRICAÇÃO DE ALICATES, TORQUESES E TENAZES `2543-8/00`
+- FABRICAÇÃO DE ALMOTOLIAS (ENGRAXADEIRAS) `2543-8/00`
+- FABRICAÇÃO DE ANCINHOS MANUAIS `2543-8/00`
+- FABRICAÇÃO DE ARCOS-DE-PUA `2543-8/00`
+- FABRICAÇÃO DE ARCOS-DE-SERRA MANUAL `2543-8/00`
+- FABRICAÇÃO DE BIGORNAS DE BANCADA `2543-8/00`
+- FABRICAÇÃO DE BOMBAS MANUAIS PARA ENCHER CÂMARAS DE PNEUMÁTICOS, BOLAS, ETC. `2543-8/00`
+- FABRICAÇÃO DE BROCAS PARA MADEIRA `2543-8/00`
+- FABRICAÇÃO DE BROCAS PARA METAIS `2543-8/00`
+- FABRICAÇÃO DE BROCAS, PONTAS, FRESAS E OUTROS ACESSÓRIOS INTERCAMBIÁVEIS PARA FERRAMENTAS E PARA MÁQUINAS FERRAMENTAS `2543-8/00`
+- FABRICAÇÃO DE CAIXAS DE FUNDIÇÃO `2543-8/00`
+- FABRICAÇÃO DE CAVADEIRAS `2543-8/00`
+- FABRICAÇÃO DE CHAVES INGLESAS `2543-8/00`
+- FABRICAÇÃO DE CHAVES PARA PARAFUSOS `2543-8/00`
+- FABRICAÇÃO DE CINZEL PARA ESCULTURAS E OUTROS TRABALHOS `2543-8/00`
+- FABRICAÇÃO DE CISALHAS PARA METAIS E FERRAMENTAS SEMELHANTES `2543-8/00`
+- FABRICAÇÃO DE COLHERES PARA PEDREIRO `2543-8/00`
+- FABRICAÇÃO DE CORRENTES CORTANTES DE SERRAS `2543-8/00`
+- FABRICAÇÃO DE CORTA-VIDROS (FERRAMENTAS MANUAIS) `2543-8/00`
+- FABRICAÇÃO DE CORTADORES DE METAIS `2543-8/00`
+- FABRICAÇÃO DE CORTADORES DE VIDRO COM PONTAS DIAMANTADAS `2543-8/00`
+- FABRICAÇÃO DE DIAMANTES (FERRAMENTAS INDUSTRIAIS) `2543-8/00`
+- FABRICAÇÃO DE ENGRAXADEIRAS `2543-8/00`
+- FABRICAÇÃO DE ENTALHADEIRAS PARA MADEIRAS `2543-8/00`
+- FABRICAÇÃO DE ENXADAS E ENXADOES `2543-8/00`
+- FABRICAÇÃO DE ESCAVADEIRAS OU ESCAVADORAS (FERRAMENTA MANUAL) `2543-8/00`
+- FABRICAÇÃO DE FACAS E FACÕES PARA USO PROFISSIONAL `2543-8/00`
+- FABRICAÇÃO DE FACAS E LAMINAS PARA MÁQUINAS INDUSTRIAIS `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS AGRÍCOLAS MANUAIS `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS DE CHANFRAR, MOLDURAR, RANHURAR, ETC `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS DE CORTE E EXTRUSÃO, N.E. `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS DE EMBUTIR, ESTAMPAR OU PUNCIONAR `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS DE ENDIREITAR, APLAINAR OU RETIFICAR `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS DE PERFURAÇÃO E SONDAGENS `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS INDUSTRIAIS DE PRECISÃO `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS INDUSTRIAIS, N.E. `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS MANUAIS PARA AGRICULTURA `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS PARA VEÍCULOS AUTOMOTORES (CHAVES) `2543-8/00`
+- FABRICAÇÃO DE FERRAMENTAS, UTENSÍLIOS E INSTRUMENTOS PARA TRABALHOS MANUAIS `2543-8/00`
+- FABRICAÇÃO DE FIEIRAS DE METAIS DUROS (TUNGSTÊNIO, VÍDEA, ETC) `2543-8/00`
+- FABRICAÇÃO DE FOICES `2543-8/00`
+- FABRICAÇÃO DE FOLHAS DE SERRAS `2543-8/00`
+- FABRICAÇÃO DE FORJAS PORTÁTEIS `2543-8/00`
+- FABRICAÇÃO DE FORMÕES E GOIVAS `2543-8/00`
+- FABRICAÇÃO DE FURADEIRA MANUAL `2543-8/00`
+- FABRICAÇÃO DE GARFOS PARA FENO `2543-8/00`
+- FABRICAÇÃO DE LAMINAS PARA SERRA `2543-8/00`
+- FABRICAÇÃO DE LIMAS, GROSAS E LIMATÕES `2543-8/00`
+- FABRICAÇÃO DE MACHADOS E MACHADINHAS `2543-8/00`
+- FABRICAÇÃO DE MACHOS E COSSINETES PARA TARRAXAS `2543-8/00`
+- FABRICAÇÃO DE MARRETAS `2543-8/00`
+- FABRICAÇÃO DE MARTELOS `2543-8/00`
+- FABRICAÇÃO DE MODELOS PARA MOLDES `2543-8/00`
+- FABRICAÇÃO DE MOLDES DE METAL PARA FUNDIÇÃO `2543-8/00`
+- FABRICAÇÃO DE MOLDES, MODELOS, MATRIZES E ESTAMPOS DE METAL PARA FINS INDUSTRIAIS `2543-8/00`
+- FABRICAÇÃO DE PARTES E PEÇAS DE METAL PARA FERRAMENTAS MANUAIS `2543-8/00`
+- FABRICAÇÃO DE PARTES E PEÇAS DE METAL PARA SERRAS MANUAIS (ARMAÇÕES, ARCOS, CABOS, ETC.) `2543-8/00`
+- FABRICAÇÃO DE PÁS (FERRAMENTAS) `2543-8/00`
+- FABRICAÇÃO DE PICARETAS `2543-8/00`
+- FABRICAÇÃO DE PINÇAS (FERRAMENTAS) `2543-8/00`
+- FABRICAÇÃO DE PLACAS DE FUNDO PARA MOLDES `2543-8/00`
+- FABRICAÇÃO DE PLAINAS MANUAIS PARA MADEIRA `2543-8/00`
+- FABRICAÇÃO DE PLAQUETAS OU PASTILHAS, VARETAS, PONTAS E OBJETOS SEMELHANTES, PARA FERRAMENTAS, NÃO MONTADOS, DE CARBONETOS METÁLICOS SINTETIZADOS OU DE CERAMAIS ("CERMETS") `2543-8/00`
+- FABRICAÇÃO DE PONTEIRAS DE AÇO `2543-8/00`
+- FABRICAÇÃO DE PUNÇÕES DE TODOS OS TIPOS `2543-8/00`
+- FABRICAÇÃO DE SACA-PARAFUSOS `2543-8/00`
+- FABRICAÇÃO DE SACA-POLIAS `2543-8/00`
+- FABRICAÇÃO DE SARGENTOS (TORNIQUETES) `2543-8/00`
+- FABRICAÇÃO DE SERRAS MANUAIS `2543-8/00`
+- FABRICAÇÃO DE SERROTES `2543-8/00`
+- FABRICAÇÃO DE TALHADEIRAS DE AÇO `2543-8/00`
+- FABRICAÇÃO DE TARRAXAS COMPLETAS COM MACHOS E COSSINETES `2543-8/00`
+- FABRICAÇÃO DE TESOURAS PARA CORTAR METAIS `2543-8/00`
+- FABRICAÇÃO DE TESOURAS PARA USOS PROFISSIONAIS (CABELEIREIROS, CORREEIROS, CHAPELEIROS, ETC) `2543-8/00`
+- FABRICAÇÃO DE TORNOS DE BANCADAS `2543-8/00`
+- FABRICAÇÃO DE VAZADORES `2543-8/00`
+- PLACAS PARA MÁQUINAS-FERRAMENTA, FABRICAÇÃO DE `2543-8/00`
+- PLACAS PARA TORNOS, FABRICAÇÃO DE `2543-8/00`
+- PRODUÇÃO DE MOLDES DE PLÁSTICO `2543-8/00`
+- SERVIÇOS DE FERRAMENTARIA `2543-8/00`
+
+## Grupo 25.5: FABRICAÇÃO DE EQUIPAMENTO BÉLICO PESADO, ARMAS E MUNIÇÕES
+
+### Classe 25.50-1: FABRICAÇÃO DE EQUIPAMENTO BÉLICO PESADO, ARMAS E MUNIÇÕES
+
+**Inclui:**
+- a fabricação de equipamento bélico pesado (metralhadoras, armas e elementos de artilharia, canhões navais, aéreos, lança-bombas, foguetes)
+- a fabricação de armas (revólveres e pistolas, fuzis,  metralhadoras, espingardas, carabinas e rifles para caça e esporte e semelhantes)
+
+**Inclui:**
+- a fabricação, carregamento e montagem de munições para equipamento bélico pesado (inclusive a fabricação de bombas, torpedos, minas, granadas, cargas de profundidade, foguete-bazuca e outros similares)
+- a fabricação de munições para armas, inclusive para caça e esporte
+
+**Não inclui:**
+- a fabricação de tanques e carros de combate, inclusive anfíbios e similares (30.50-4)
+- a fabricação de aeronaves militares (30.41-5)
+- a fabricação de veículos terrestres para transporte de tropas (divisão 29)
+
+#### 2550-1/01: FABRICAÇÃO DE EQUIPAMENTO BÉLICO PESADO, EXCETO VEÍCULOS MILITARES DE COMBATE
+
+- Simples Nacional: **impeditivo**: este código não pode ser usado por empresa do Simples Nacional (Anexo VI da Resolução CGSN 140/2018)
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE BOMBAS, CARGAS DE PROFUNDIDADE, GRANADAS, MINAS, TORPEDOS, ETC `2550-1/01`
+- FABRICAÇÃO DE EQUIPAMENTO BÉLICO PESADO `2550-1/01`
+- FABRICAÇÃO DE EQUIPAMENTOS MILITARES, N.E. `2550-1/01`
+- FABRICAÇÃO DE METRALHADORAS PESADAS `2550-1/01`
+- FABRICAÇÃO DE MUNIÇÃO PARA EQUIPAMENTO BÉLICO PESADO `2550-1/01`
+- FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA EQUIPAMENTO BÉLICO PESADO `2550-1/01`
+- FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA MUNIÇÃO DE EQUIPAMENTO BÉLICO PESADO `2550-1/01`
+
+#### 2550-1/02: FABRICAÇÃO DE ARMAS DE FOGO, OUTRAS ARMAS  E MUNIÇÕES
+
+- Simples Nacional: **impeditivo**: este código não pode ser usado por empresa do Simples Nacional (Anexo VI da Resolução CGSN 140/2018)
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE ARMAS PARA CAÇA E ESPORTE `2550-1/02`
+- FABRICAÇÃO DE CARABINAS `2550-1/02`
+- FABRICAÇÃO DE ESPINGARDAS `2550-1/02`
+- FABRICAÇÃO DE ESPINGARDAS, CARABINAS E PISTOLAS DE MOLA, DE AR COMPRIMIDO OU DE GAS `2550-1/02`
+- FABRICAÇÃO DE METRALHADORAS LEVES (PORTÁTEIS) `2550-1/02`
+- FABRICAÇÃO DE MUNIÇÃO PARA ARMAS DE FOGO E PARA OUTRAS ARMAS `2550-1/02`
+- FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA ARMAS `2550-1/02`
+- FABRICAÇÃO DE PISTOLAS (ARMAS DE FOGO) `2550-1/02`
+- FABRICAÇÃO DE REVOLVERES (ARMAS DE FOGO) `2550-1/02`
+
+## Grupo 25.9: FABRICAÇÃO DE PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE
+
+### Classe 25.91-8: FABRICAÇÃO DE EMBALAGENS METÁLICAS
+
+**Inclui:**
+- a fabricação de latas, tubos e bisnagas para alimentos, bebidas e produtos químicos; embalagens de aerossóis
+- a fabricação de tonéis, latões, tambores e outros recipientes metálicos para transporte de mercadorias
+
+**Inclui:**
+- a fabricação de tampas metálicas para embalagens
+
+**Não inclui:**
+- a fabricação de tanques e reservatórios para armazenamento e processamento de materiais (25.21-7)
+- a fabricação de recipientes metálicos para gases comprimidos e liqüefeitos, de qualquer capacidade (25.21-7)
+- a fabricação de contêineres (29.30-1)
+
+#### 2591-8/00: FABRICAÇÃO DE EMBALAGENS METÁLICAS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE AEROSSÓIS (EMBALAGENS) `2591-8/00`
+- FABRICAÇÃO DE BARRIS, TAMBORES E RECIPIENTES SEMELHANTES (EXCETO LATAS) DE FERRO E AÇO PARA ACONDICIONAMENTO DE PRODUTOS, COM CAPACIDADE INFERIOR A 50L `2591-8/00`
+- FABRICAÇÃO DE BISNAGAS METÁLICAS PARA EMBALAGEM `2591-8/00`
+- FABRICAÇÃO DE CARTUCHOS DE METAL PARA EMBALAGENS `2591-8/00`
+- FABRICAÇÃO DE EMBALAGEM DE AEROSSOL `2591-8/00`
+- FABRICAÇÃO DE EMBALAGENS EM PAPEL ALUMÍNIO (QUENTINHA, ETC) `2591-8/00`
+- FABRICAÇÃO DE EMBALAGENS FLEXÍVEIS DE ALUMÍNIO `2591-8/00`
+- FABRICAÇÃO DE EMBALAGENS METÁLICAS `2591-8/00`
+- FABRICAÇÃO DE LATAS DE ALUMÍNIO PARA EMBALAGEM `2591-8/00`
+- FABRICAÇÃO DE LATAS DE METAL `2591-8/00`
+- FABRICAÇÃO DE LATAS METÁLICAS PARA EMBALAGEM `2591-8/00`
+- FABRICAÇÃO DE LATÕES DE METAL PARA LATICÍNIOS `2591-8/00`
+- FABRICAÇÃO DE RECIPIENTES DE FERRO, AÇO OU ALUMÍNIO COM CAPACIDADE INFERIOR A 300L, ISOTÉRMICOS, REFRIGERADOS A NITROGÊNIO LÍQUIDO, UTILIZADOS PARA SÊMEN, SANGUE,TECIDOS BIOLÓGICOS OU SIMILARES `2591-8/00`
+- FABRICAÇÃO DE RECIPIENTES METÁLICOS PARA EMBALAGEM, N.E. `2591-8/00`
+- FABRICAÇÃO DE RESERVATÓRIOS, BARRIS, TAMBORES, CAIXAS E RECIPIENTES SEMELHANTES DE ALUMÍNIO, COM CAPACIDADE NÃO SUPERIOR A 300 L `2591-8/00`
+- FABRICAÇÃO DE RESERVATÓRIOS, BARRIS, TAMBORES, LATAS (EXCETO PARA GASES), DE FERRO E AÇO COM CAPACIDADE IGUAL OU SUPERIOR A 50L E INFERIOR A 300L, PARA EMBALAGEM OU TRANSPORTE DE PRODUTOS DIVERSOS `2591-8/00`
+- FABRICAÇÃO DE ROLHAS E CÁPSULAS DE METAIS `2591-8/00`
+- FABRICAÇÃO DE TAMBORES E TANQUES METÁLICOS PARA EMBALAGEM `2591-8/00`
+- FABRICAÇÃO DE TAMPAS DE METAL PARA EMBALAGENS `2591-8/00`
+
+### Classe 25.92-6: FABRICAÇÃO DE PRODUTOS DE TREFILADOS DE METAL
+
+**Inclui:**
+- a fabricação de artefatos de trefilados, produtos de arame e fio-máquina (cabos de aço, correntes, molas, pregos, tachas e arestas, tecidos e telas de arame e produtos semelhantes)
+- a fabricação de cabos de metal não utilizados como condutores de eletricidade
+- a fabricação de produtos padronizados e os obtidos em torno automático (parafusos, pinos, rebites, porcas, arruelas, etc.)
+- a fabricação de palha e esponja (lã) de aço
+
+**Não inclui:**
+- a fabricação de molas para relógios (26.52-3)
+- a fabricação de molas para veículos rodoviários (29.44-1)
+- a fabricação de molas para veículos ferroviários (30.32-6)
+
+#### 2592-6/01: FABRICAÇÃO DE PRODUTOS DE TREFILADOS DE METAL PADRONIZADOS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE CHAPAS E TIRAS, DISTENDIDAS, DE FERRO E AÇO `2592-6/01`
+- FABRICAÇÃO DE ESPONJAS, LUVAS E SEMELHANTES, PARA LIMPEZA E POLIMENTO, DE FIOS DE COBRE `2592-6/01`
+- FABRICAÇÃO DE ESPONJAS, LUVAS, E SEMELHANTES, PARA LIMPEZA E POLIMENTO, DE FIOS DE ALUMÍNIO `2592-6/01`
+- FABRICAÇÃO DE GRADES OU REDES DE FIOS DE FERRO E AÇO, INCLUSIVE REVESTIDAS `2592-6/01`
+- FABRICAÇÃO DE PARAFUSOS METÁLICOS `2592-6/01`
+- FABRICAÇÃO DE PINOS E CONTRAPINOS METÁLICOS `2592-6/01`
+- FABRICAÇÃO DE PORCAS E ARRUELAS METÁLICAS `2592-6/01`
+- FABRICAÇÃO DE REBITES METÁLICOS `2592-6/01`
+
+#### 2592-6/02: FABRICAÇÃO DE PRODUTOS DE TREFILADOS DE METAL, EXCETO PADRONIZADOS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FABRICAÇÃO DE ARAMADOS PARA QUALQUER USO `2592-6/02`
+- FABRICAÇÃO DE ARARAS, CALCEIROS, PRATELEIRAS E BIOMBOS ARAMADOS `2592-6/02`
+- FABRICAÇÃO DE CABOS E CORDOALHAS DE AÇO `2592-6/02`
+- FABRICAÇÃO DE CALCEIRO ARAMADO `2592-6/02`
+- FABRICAÇÃO DE CERCAS METÁLICAS (TELAS) `2592-6/02`
+- FABRICAÇÃO DE CESTAS DE ARAME `2592-6/02`
+- FABRICAÇÃO DE CORDAS, CABOS E SEMELHANTES DE ALUMÍNIO, NUS `2592-6/02`
+- FABRICAÇÃO DE CORDAS, CABOS E SEMELHANTES DE COBRE, NUS `2592-6/02`
+- FABRICAÇÃO DE CORDAS, CABOS, TRANÇAS E SEMELHANTES DE METAL (METÁLICOS), NÃO ISOLADOS (NUS) `2592-6/02`
+- FABRICAÇÃO DE CORRENTES ANTIDERRAPANTES E SUAS PARTES, DE FERRO E AÇO `2592-6/02`
+- FABRICAÇÃO DE CORRENTES DE FERRO E AÇO `2592-6/02`
+- FABRICAÇÃO DE CORRENTES DE METAIS NÃO-FERROSOS `2592-6/02`
+- FABRICAÇÃO DE CORRENTES E CADEIAS METÁLICAS E SUAS PARTES `2592-6/02`
+- FABRICAÇÃO DE ESPONJAS DE AÇO (LÃ DE AÇO) `2592-6/02`
+- FABRICAÇÃO DE GAIOLAS E VIVEIROS DE ARAME `2592-6/02`
+- FABRICAÇÃO DE GRAMPOS DE FIXAÇÃO `2592-6/02`
+- FABRICAÇÃO DE LÃS DE AÇO `2592-6/02`
+- FABRICAÇÃO DE MÓDULOS ARAMADOS `2592-6/02`
+- FABRICAÇÃO DE MOLAS DE TODOS OS TIPOS, EXCETO PARA VEÍCULOS `2592-6/02`
+- FABRICAÇÃO DE PALHA DE AÇO `2592-6/02`
+- FABRICAÇÃO DE PREGOS E GRAMPOS PARA CERCA `2592-6/02`
+- FABRICAÇÃO DE PREGOS, TACHAS E ARESTAS DE METAIS `2592-6/02`
+- FABRICAÇÃO DE REDES DE PROTEÇÃO (TELAS ARAMADAS) `2592-6/02`
+- FABRICAÇÃO DE SAPATEIRAS ARAMADAS `2592-6/02`
+- FABRICAÇÃO DE TELAS DE ARAME `2592-6/02`
+- FABRICAÇÃO DE TELAS METÁLICAS `2592-6/02`
+- FABRICAÇÃO GAIOLAS E VIVEIROS METÁLICOS `2592-6/02`
+- PRODUÇÃO DE ARTEFATOS DE TREFILADOS, N.E., - (EXCETO PRODUTOS PADRONIZADOS) `2592-6/02`
+
+### Classe 25.93-4: FABRICAÇÃO DE ARTIGOS DE METAL PARA USO DOMÉSTICO E PESSOAL
+
+**Inclui:**
+- a fabricação de artefatos de metal para uso doméstico, produzidos por qualquer processo: panelas, frigideiras, pratos, saladeiras, bandejas, etc.
+- a fabricação de ferramentas domésticas (saca-rolhas, abridores de latas e garrafas, espremedores de alho, moedores não-elétricos, cortadores de queijo, etc.)
+- a fabricação de artefatos de metal para uso pessoal (grampos e clipes para cabelo, etc.)
+- a fabricação de artigos sanitários de metal (pias, banheiras, etc.)
+
+**Não inclui:**
+- a fabricação de artigos de cutelaria (25.41-1)
+
+#### 2593-4/00: FABRICAÇÃO DE ARTIGOS DE METAL PARA USO DOMÉSTICO E PESSOAL
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- CHUVEIROS METÁLICOS NÃO-ELETRICOS, FABRICAÇÃO DE `2593-4/00`
+- FABRICAÇÃO DE ABRIDORES DE LATAS E GARRAFAS `2593-4/00`
+- FABRICAÇÃO DE ARTEFATOS DE METAL PARA USO DOMÉSTICO, N.E. `2593-4/00`
+- FABRICAÇÃO DE ASSADEIRA DE METAL `2593-4/00`
+- FABRICAÇÃO DE BAIXELA EM AÇO INOX `2593-4/00`
+- FABRICAÇÃO DE BALCAO METALICO (TABUA) PARA PASSAR ROUPA `2593-4/00`
+- FABRICAÇÃO DE BALDES PARA GELO, METÁLICOS `2593-4/00`
+- FABRICAÇÃO DE BANDEJA INOX `2593-4/00`
+- FABRICAÇÃO DE BANHEIRAS METÁLICAS `2593-4/00`
+- FABRICAÇÃO DE CAFETEIRAS DOMESTICAS, NÃO-ELÉTRICAS `2593-4/00`
+- FABRICAÇÃO DE CONJUNTO DE METAL PARA SOBREMESA `2593-4/00`
+- FABRICAÇÃO DE CONJUNTO DE PANELAS (METAL) `2593-4/00`
+- FABRICAÇÃO DE COPOS E CANECAS METÁLICOS `2593-4/00`
+- FABRICAÇÃO DE CORTADOR DE LEGUMES (MANUAL) `2593-4/00`
+- FABRICAÇÃO DE CORTADORES DE QUEIJO `2593-4/00`
+- FABRICAÇÃO DE ESCORREDORES METÁLICOS PARA COPOS E PRATOS `2593-4/00`
+- FABRICAÇÃO DE ESPREMEDORES DE ALHO `2593-4/00`
+- FABRICAÇÃO DE FERRAMENTAS DE USO DOMÉSTICO `2593-4/00`
+- FABRICAÇÃO DE FRIGIDEIRAS DE METAL PARA USO DOMÉSTICO `2593-4/00`
+- FABRICAÇÃO DE FRUTEIRAS METÁLICAS `2593-4/00`
+- FABRICAÇÃO DE GRAMPOS E CLIPES PARA CABELOS `2593-4/00`
+- FABRICAÇÃO DE MÁQUINAS DE MOER CARNE (MOEDORES) NÃO ELÉTRICAS `2593-4/00`
+- FABRICAÇÃO DE MARMITAS METÁLICAS `2593-4/00`
+- FABRICAÇÃO DE MESA PARA PASSAR ROUPA (EM FERRO) `2593-4/00`
+- FABRICAÇÃO DE PANELAS DE METAL PARA USO DOMÉSTICO `2593-4/00`
+- FABRICAÇÃO DE PANELAS DE PRESSÃO `2593-4/00`
+- FABRICAÇÃO DE PANQUEQUEIRA `2593-4/00`
+- FABRICAÇÃO DE PEÇAS AVULSAS METÁLICAS PARA MESA E COZINHA `2593-4/00`
+- FABRICAÇÃO DE PIAS METÁLICAS `2593-4/00`
+- FABRICAÇÃO DE PLAINA PARA CORTAR QUEIJO `2593-4/00`
+- FABRICAÇÃO DE PRATOS E TRAVESSAS METÁLICOS `2593-4/00`
+- FABRICAÇÃO DE RALADOR METÁLICO `2593-4/00`
+- FABRICAÇÃO DE SACA-ROLHAS E QUEBRA-NOZES `2593-4/00`
+- FABRICAÇÃO DE SECADORES METÁLICOS PARA ROUPAS `2593-4/00`
+- FABRICAÇÃO DE UTENSÍLIOS DOMÉSTICOS DE METAIS (EXCETO TALHERES) `2593-4/00`
+- FABRICAÇÃO DE UTENSÍLIOS METÁLICOS PARA MESA, COPA E COZINHA, INCLUSIVE JOGOS COMPLETOS `2593-4/00`
+- PIAS DE AÇO INOXIDÁVEL, FABRICAÇÃO DE `2593-4/00`
+- PRODUÇÃO DE CASTIÇAIS DE METAL `2593-4/00`
+- PRODUÇÃO DE UTENSÍLIOS DOMÉSTICOS DE ALUMÍNIO `2593-4/00`
+
+### Classe 25.99-3: FABRICAÇÃO DE PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE
+
+**Inclui:**
+- a fabricação de artefatos de metal para escritório (grampos e clipes para papel, percevejos, etc.)
+- a fabricação de cofres, caixas de segurança, portas e compartimentos blindados
+- a fabricação de hélices e âncoras para embarcações
+- a fabricação de artigos sanitários de metal (pias, banheiras, etc.)
+- a fabricação de ferragens eletrotécnicas para instalações de redes e subestações de energia elétrica e telecomunicações (cintas e braçadeiras para postes, parafusos (francês, olhal) hastes de aterramento, mão-francesa, etc.)
+- a fabricação de produtos diversos de metal não compreendidos em outras classes
+
+**Inclui:**
+- a fabricação de armações metálicas para a construção civil
+
+**Não inclui:**
+- a fabricação de carrinhos de compra (30.99-7)
+- a fabricação de móveis de metal (31.02-1)
+- a fabricação de brinquedos de metal (32.40-0)
+- a fabricação de placas metálicas indicadoras para qualquer fim (32.99-0)
+- a fabricação de troféus esportivos (32.99-0)
+
+#### 2599-3/01: SERVIÇOS DE CONFECÇÃO DE ARMAÇÕES METÁLICAS PARA A CONSTRUÇÃO
+
+- Simples Nacional: permitido
+- MEI: **sim**: ARMADOR(A) DE FERRAGENS NA CONSTRUÇÃO CIVIL INDEPENDENTE
+
+Atividades:
+
+- ARMAÇÕES METÁLICAS PARA CONSTRUÇÃO, SERVIÇO DE CONFECÇÃO DE `2599-3/01`
+- FABRICAÇÃO DE ESTRIBOS PARA CONFECÇÃO DE ARMAÇÕES METÁLICAS USADAS NA CONSTRUÇÃO `2599-3/01`
+
+#### 2599-3/02: SERVIÇO DE CORTE E DOBRA DE METAIS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- FERRO E AÇO CORTE E DOBRA (NÃO ASSOCIADO AO COMÉRCIO) `2599-3/02`
+- PRODUÇÃO DE FERRO E AÇO RECORTADO `2599-3/02`
+- PRODUÇÃO DE METAIS DOBRADOS OU RECORTADOS `2599-3/02`
+- SERVIÇO DE CORTE E DOBRA DE CALHAS METÁLICAS `2599-3/02`
+- SERVIÇO DE CORTE E DOBRA DE METAIS `2599-3/02`
+
+#### 2599-3/99: FABRICAÇÃO DE OUTROS PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE
+
+- Simples Nacional: permitido
+- MEI: **sim**: ARTESÃO(Ã) EM METAIS INDEPENDENTE
+
+Atividades:
+
+- ACESSÓRIOS METÁLICOS PARA SONDAGENS E CONSTRUÇÃO DE ENCOSTAS, FABRICAÇÃO DE `2599-3/99`
+- ANCORAGENS, BAINHAS METÁLICAS, JUNTAS DE DILATAÇÃO E SEMELHANTES PARA CONCRETO, FABRICAÇÃO DE `2599-3/99`
+- BRITAMENTO, LAVAGEM, PENEIRAÇÃO E OUTROS BENEFICIAMENTOS DE ESCORIAS OU DE OUTROS RESIDUOS METALÚRGICOS `2599-3/99`
+- CINTAS OU BRAÇADEIRAS PARA POSTES, FABRICAÇÃO DE `2599-3/99`
+- ESCORAMENTOS METÁLICOS PARA CONSTRUÇÃO CIVIL, FABRICAÇÃO DE `2599-3/99`
+- FABRICAÇÃO DE ABRAÇADEIRAS, CANTONEIRAS E SUPORTES METÁLICOS `2599-3/99`
+- FABRICAÇÃO DE ANCORAS PARA EMBARCAÇÕES `2599-3/99`
+- FABRICAÇÃO DE ARTEFATOS DE CHUMBO, N.E. `2599-3/99`
+- FABRICAÇÃO DE ARTEFATOS DE METAL PARA ESCRITÓRIO, EXCETO ARTEFATOS DE CUTELARIA `2599-3/99`
+- FABRICAÇÃO DE ARTEFATOS DIVERSOS DE ALUMÍNIO `2599-3/99`
+- FABRICAÇÃO DE ARTEFATOS DIVERSOS DE FERRO E AÇO `2599-3/99`
+- FABRICAÇÃO DE ARTEFATOS DIVERSOS DE METAIS NÃO FERROSOS (EXCETO ALUMÍNIO), NÃO ESPECIFICADOS ANTERIORMENTE `2599-3/99`
+- FABRICAÇÃO DE ARTESANATO EM METAIS (EXCETO METAIS PRECIOSOS) `2599-3/99`
+- FABRICAÇÃO DE CABINAS METÁLICAS DE SEGURANÇA `2599-3/99`
+- FABRICAÇÃO DE CAIXAS METÁLICAS PARA CORREIO `2599-3/99`
+- FABRICAÇÃO DE CHAPAS, BOBINAS  E OUTROS LAMINADOS METÁLICOS CORTADOS EM QUALQUER FORMA `2599-3/99`
+- FABRICAÇÃO DE CINZEIROS METÁLICOS `2599-3/99`
+- FABRICAÇÃO DE COFRES E CAIXAS-FORTES DE AÇO `2599-3/99`
+- FABRICAÇÃO DE ESCADAS METÁLICAS `2599-3/99`
+- FABRICAÇÃO DE ESFERAS METÁLICAS PARA EROSÃO `2599-3/99`
+- FABRICAÇÃO DE ESTATUETAS E OUTROS OBJETOS METÁLICOS PARA ORNAMENTAÇÃO `2599-3/99`
+- FABRICAÇÃO DE ETIQUETAS DE METAL `2599-3/99`
+- FABRICAÇÃO DE EXPOSITORES, DISPLAYS OU MOSTRUÁRIOS METÁLICOS `2599-3/99`
+- FABRICAÇÃO DE FERRAGENS ELETROTÉCNICAS PARA ELETRICIDADE, TELEFONIA (TELECOMUNICAÇÕES), ETC `2599-3/99`
+- FABRICAÇÃO DE FIOS, VARETAS, TUBOS, ELETRODOS E ARTEFATOS SEMELHANTES PARA SOLDAGEM `2599-3/99`
+- FABRICAÇÃO DE FORROS E REVESTIMENTOS METÁLICOS PARA ISOLAMENTO TÉRMICO `2599-3/99`
+- FABRICAÇÃO DE GRAMPO PARA GRAMPEADORES `2599-3/99`
+- FABRICAÇÃO DE GRAMPOS E CLIPES PARA PAPEL `2599-3/99`
+- FABRICAÇÃO DE HÉLICES PARA EMBARCAÇÕES `2599-3/99`
+- FABRICAÇÃO DE HÉLICES PARA NAVIOS `2599-3/99`
+- FABRICAÇÃO DE IMAS (FERRITES) `2599-3/99`
+- FABRICAÇÃO DE JUNTAS DE EXPANSÃO E OUTRAS JUNTAS PARA TUBULAÇÕES E ENCANAMENTOS `2599-3/99`
+- FABRICAÇÃO DE LIXEIRA METÁLICAS `2599-3/99`
+- FABRICAÇÃO DE MOLDURAS PARA FOTOGRAFIAS, GRAVURAS E SEMELHANTES, DE METAL `2599-3/99`
+- FABRICAÇÃO DE PAINÉIS METÁLICOS `2599-3/99`
+- FABRICAÇÃO DE PAINÉIS METÁLICOS PARA TAPUMES PARA CONSTRUÇÃO `2599-3/99`
+- FABRICAÇÃO DE PALETES (PALLETS) METÁLICOS `2599-3/99`
+- FABRICAÇÃO DE PERCEVEJOS `2599-3/99`
+- FABRICAÇÃO DE PORTAS PARA CAIXAS-FORTES `2599-3/99`
+- FABRICAÇÃO DE SELO DE SEGURANÇA METÁLICO `2599-3/99`
+- FABRICAÇÃO DE SINOS, GONZOS E ARTEFATOS SEMELHANTES, NÃO ELÉTRICOS `2599-3/99`
+- FABRICAÇÃO DE SUPORTES (GANCHOS) PARA VESTUÁRIO, PARA ARTEFATOS DE TECIDO, PARA ESCOVAS, PARA CHAVES, ETC. `2599-3/99`
+- HASTES DE ATERRAMENTO, FABRICAÇÃO DE `2599-3/99`
+- POSTES METÁLICOS, FABRICAÇÃO DE `2599-3/99`
+- PRODUÇÃO DE ELETRODOS PARA SOLDA ELÉTRICA, EXCETO DE GRAFITA `2599-3/99`
+- SERVIÇO DE PERFURAÇÃO EM CHAPAS METÁLICAS `2599-3/99`
+- SERVIÇOS DE EMBALAGEM INDUSTRIAL DE PRODUTOS SIDERÚRGICOS `2599-3/99`
+- SUCATAS E OUTROS RESÍDUOS METÁLICOS N.E (EXCETO OBTIDOS EM SIDERÚRGICAS) `2599-3/99`

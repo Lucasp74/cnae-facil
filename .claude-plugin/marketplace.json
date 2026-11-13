@@ -1,0 +1,12 @@
+{
+  "name": "cnae-facil",
+  "description": "CNAEs para CNPJ e enquadramento tributário com dados oficiais do IBGE e da Receita Federal",
+  "owner": { "name": "Lucasp74" },
+  "plugins": [
+    {
+      "name": "cnae-facil",
+      "source": "./plugin",
+      "description": "Recomenda os CNAEs corretos para o CNPJ de qualquer negócio e o enquadramento que paga menos imposto dentro da lei"
+    }
+  ]
+}

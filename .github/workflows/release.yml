@@ -1,0 +1,23 @@
+name: Publicar pacote da skill
+
+# Gera o .zip da skill (para instalar no chat do Claude) e publica como Release.
+# Rode depois de "node scripts/empacotar.mjs" e de aumentar a versão no script.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Montar o zip
+        run: cd plugin/skills && zip -qr "$GITHUB_WORKSPACE/cnae-facil-skill.zip" cnae-facil
+      - name: Publicar a Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          versao=$(node -p "require('./plugin/.claude-plugin/plugin.json').version")
+          gh release create "v$versao" cnae-facil-skill.zip --title "CNAE Fácil $versao" --notes "Pacote da skill para instalar no chat do Claude: Configurações > Skills > + Adicionar." --latest

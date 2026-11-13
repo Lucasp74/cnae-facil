@@ -1,0 +1,300 @@
+# Divisão 14: CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+
+Seção C: INDÚSTRIAS DE TRANSFORMAÇÃO
+
+Fonte: IBGE, CNAE-Subclasses 2.3 (API servicodados.ibge.gov.br). Simples Nacional e MEI: Resolução CGSN 140/2018, Anexos VI, VII e XI. Arquivo gerado por `scripts/gerar_cnae.mjs`; não edite à mão.
+
+Cada atividade aparece na ordem natural e termina com o código da subclasse, para que uma busca por palavra já mostre o código.
+
+## Grupo 14.1: CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+
+### Classe 14.11-8: CONFECÇÃO DE ROUPAS ÍNTIMAS
+
+**Inclui:**
+- a confecção de roupas íntimas e roupas de dormir para uso masculino, feminino e infantil confeccionadas com tecidos planos ou tecidos de malha (pijamas, sutiãs, calcinhas, cuecas, etc.)
+
+**Inclui:**
+- a montagem de roupas íntimas e roupas de dormir (costura)
+- os serviços industriais de facção de roupas íntimas e roupas de dormir (costura de partes das roupas, corte, etc)
+
+**Não inclui:**
+- a confecção de artefatos de tricotagem (malharia) (14.22-3)
+
+#### 1411-8/01: CONFECÇÃO DE ROUPAS ÍNTIMAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE ROUPAS ÍNTIMAS INDEPENDENTE
+
+Atividades:
+
+- CONFECÇÃO DE ANÁGUAS E COMBINAÇÕES `1411-8/01`
+- CONFECÇÃO DE CALCINHAS FEMININAS `1411-8/01`
+- CONFECÇÃO DE CALCINHAS PARA CRIANÇAS `1411-8/01`
+- CONFECÇÃO DE CAMISOLAS E PIJAMAS FEMININOS `1411-8/01`
+- CONFECÇÃO DE CAMISOLAS PARA CRIANÇAS,  `1411-8/01`
+- CONFECÇÃO DE PIJAMAS ADULTOS OU INFANTIS `1411-8/01`
+- CONFECÇÃO DE ROUPAS ÍNTIMAS DESCARTÁVEIS CONFECCIONADAS COM TECIDOS `1411-8/01`
+- CONFECÇÃO DE ROUPÕES E ROBES FEMININOS `1411-8/01`
+- CONFECÇÃO DE ROUPÕES E ROBES MASCULINOS `1411-8/01`
+- CONFECÇÃO DE SUTIÃ (SOUTIEN) OU CALCINHAS `1411-8/01`
+- COSTUREIRA (PARA PEÇAS INTERIORES DO VESTUÁRIO) `1411-8/01`
+- CUECAS, CONFECÇÃO DE `1411-8/01`
+- FABRICAÇÃO DE CINTAS ELÁSTICAS `1411-8/01`
+- FABRICAÇÃO DE CINTAS-LIGA `1411-8/01`
+- FABRICAÇÃO DE ESPARTILHOS, SUSPENSÓRIOS, LIGAS, ARTEFATOS SEMELHANTES E SUAS PARTES, INCLUSIVE DE MALHA; CONFECÇÃO DE `1411-8/01`
+- FABRICAÇÃO DE MODELADORES FEMININOS `1411-8/01`
+- FABRICAÇÃO DE ROUPAS INTIMAS `1411-8/01`
+- SERVIÇO DE MONTAGEM DE PEÇAS INTERIORES DO VESTUÁRIO (COSTURA) `1411-8/01`
+
+#### 1411-8/02: FACÇÃO DE ROUPAS ÍNTIMAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE PARTES DE ROUPAS ÍNTIMAS - FACÇÃO INDEPENDENTE
+
+Atividades:
+
+- FABRICAÇÃO DE FACÇÃO DE ESPARTILHOS, SUSPENSÓRIOS, LIGAS, ARTEFATOS SEMELHANTES E SUAS PARTES, INCLUSIVE DE MALHA; SERVIÇOS DE `1411-8/02`
+- FACÇÃO DE ROUPAS INTIMAS `1411-8/02`
+- SERVIÇO DE FACÇÃO DE PEÇAS INTERIORES DO VESTUÁRIO `1411-8/02`
+- SERVIÇO DE FACÇÃO DE ROUPAS INTIMAS `1411-8/02`
+
+### Classe 14.12-6: CONFECÇÃO DE PEÇAS DE VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS
+
+**Inclui:**
+- a confecção de artigos do vestuário masculino, feminino e infantil (camisas, camisetas, blusas, vestidos, saias, calças, ternos, casacos, etc.), confeccionados com qualquer tipo de material (tecidos planos, tecidos de malha, couros, etc.)
+- a confecção de roupas para recém-nascidos
+
+**Inclui:**
+- a montagem de blusas, camisas, vestidos, saias, calças, ternos e outras peças do vestuário (costura)
+- os serviços industriais de facção de blusas, camisas, vestidos, saias, calças, ternos e outras peças do vestuário (costura de partes das roupas, corte, etc)
+
+**Não inclui:**
+- a fabricação de artefatos de tricotagem (malharia) (14.22-3)
+- a confecção de roupas profissionais (14.13-4)
+- a reparação ou conserto de peças do vestuário (95.29-1)
+
+#### 1412-6/01: CONFECÇÃO DE PEÇAS DE VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS E AS CONFECCIONADAS SOB MEDIDA
+
+- Simples Nacional: permitido
+- MEI: **sim**: COSTUREIRO(A) DE ROUPAS, EXCETO SOB MEDIDA, INDEPENDENTE
+
+Atividades:
+
+- ATELIER DE COSTURA (EXCETO PEÇAS ÍNTIMAS) `1412-6/01`
+- CONFECÇÃO DE  BLUSAS, BLUSÕES E CAMISAS ESPORTE PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE AGASALHOS DE COURO E PELE, PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE AGASALHOS DE COURO OU PELE PARA USO FEMININO `1412-6/01`
+- CONFECÇÃO DE AGASALHOS, N.E. `1412-6/01`
+- CONFECÇÃO DE ARTIGOS DO VESTUÁRIO ADORNADOS COM PELES `1412-6/01`
+- CONFECÇÃO DE BLUSAS FEMININAS `1412-6/01`
+- CONFECÇÃO DE BLUSAS, BLUSÕES E CAMISAS ESPORTE PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE CALCAS COMPRIDAS DE COURO `1412-6/01`
+- CONFECÇÃO DE CALCAS COMPRIDAS FEMININAS `1412-6/01`
+- CONFECÇÃO DE CALCAS COMPRIDAS PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE CALCAS COMPRIDAS PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE CALÇÕES, SHORTS E SEMELHANTES PARA ADULTOS `1412-6/01`
+- CONFECÇÃO DE CALÇÕES, SHORTS E SEMELHANTES PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE CAMISA SOCIAL PARA ADULTOS `1412-6/01`
+- CONFECÇÃO DE CAMISA SOCIAL PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE CAMISAS ESPORTE `1412-6/01`
+- CONFECÇÃO DE CAMISETAS `1412-6/01`
+- CONFECÇÃO DE CAPAS DE MATERIAL PLÁSTICO PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE CAPAS PARA ADULTOS `1412-6/01`
+- CONFECÇÃO DE CASACOS DE COURO `1412-6/01`
+- CONFECÇÃO DE CASACOS FEMININOS `1412-6/01`
+- CONFECÇÃO DE CASACOS PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE CASACOS PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE FANTASIAS EM TECIDO `1412-6/01`
+- CONFECÇÃO DE JAQUETAS `1412-6/01`
+- CONFECÇÃO DE PALETÓS PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE ROUPAS (EXCETO PEÇAS INTIMAS) `1412-6/01`
+- CONFECÇÃO DE ROUPAS DE COURO `1412-6/01`
+- CONFECÇÃO DE ROUPAS DE PRAIA PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE ROUPAS ESPORTE PARA USO FEMININO `1412-6/01`
+- CONFECÇÃO DE ROUPAS ESPORTIVAS `1412-6/01`
+- CONFECÇÃO DE ROUPAS PARA CRIANÇAS (EXCETO ROUPAS ÍNTIMAS) `1412-6/01`
+- CONFECÇÃO DE ROUPAS PARA PRATICAR ESPORTES `1412-6/01`
+- CONFECÇÃO DE ROUPAS, PEÇAS DO VESTUÁRIO E AGASALHOS PARA RECÉM-NASCIDOS `1412-6/01`
+- CONFECÇÃO DE SAIAS DE COURO `1412-6/01`
+- CONFECÇÃO DE SAIAS FEMININAS `1412-6/01`
+- CONFECÇÃO DE SAIAS PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE SOBRETUDOS PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE SUNGAS DE PRAIA `1412-6/01`
+- CONFECÇÃO DE TERNOS E COSTUMES PARA HOMENS `1412-6/01`
+- CONFECÇÃO DE VESTIDOS OU CONJUNTO FEMININOS `1412-6/01`
+- CONFECÇÃO DE VESTIDOS OU CONJUNTOS PARA CRIANÇAS `1412-6/01`
+- CONFECÇÃO DE VESTUÁRIO (EXCETO PEÇAS INTIMAS) `1412-6/01`
+- FABRICAÇÃO DE BERMUDAS `1412-6/01`
+- FABRICAÇÃO DE BIQUÍNIS DE PRAIA `1412-6/01`
+- FABRICAÇÃO DE BLAZERS `1412-6/01`
+- FABRICAÇÃO DE MACACÕES, AGASALHOS E CONJUNTOS PARA ESPORTE, DE MALHA; CONFECÇÃO DE `1412-6/01`
+- FABRICAÇÃO DE MAIÔS `1412-6/01`
+- FABRICAÇÃO DE ROUPAS DE PRAIA `1412-6/01`
+- SERVIÇO DE MONTAGEM DE ROUPAS (COSTURA) `1412-6/01`
+
+#### 1412-6/02: CONFECÇÃO, SOB MEDIDA, DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: ALFAIATE INDEPENDENTE; COSTUREIRO(A) DE ROUPAS SOB MEDIDA INDEPENDENTE
+
+Atividades:
+
+-  CONFECÇÃO SOB MEDIDA DE BLUSAS E CAMISAS PARA CRIANÇAS `1412-6/02`
+- ALFAIATE `1412-6/02`
+- CALCAS COMPRIDAS, CONFECÇÃO SOB MEDIDA DE `1412-6/02`
+- CAMISAS, BLUSAS E BLUSÕES, CONFECÇÃO SOB MEDIDA DE `1412-6/02`
+- CAMISEIROS (CONFECÇÃO DE CAMISAS SOB MEDIDA) `1412-6/02`
+- CASACOS, CONFECÇÃO SOB MEDIDA DE `1412-6/02`
+- CONFECÇÃO SOB MEDIDA (EXCETO PARA ROUPAS ÍNTIMAS) COSTUREIRAS `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE BLUSAS FEMININAS `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE BLUSAS, BLUSÕES E CAMISAS ESPORTE PARA HOMENS `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE CAMISA SOCIAL `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE JAQUETAS `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE ROUPAS DE PRAIA `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE ROUPAS ESPORTIVAS `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE TERNOS `1412-6/02`
+- CONFECÇÃO SOB MEDIDA DE VESTIDOS E COSTUMES `1412-6/02`
+
+#### 1412-6/03: FACÇÃO DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE PARTES DE PEÇAS DO VESTUÁRIO - FACÇÃO INDEPENDENTE
+
+Atividades:
+
+- FABRICAÇÃO DE FACÇÃO DE MACACÕES, AGASALHOS E CONJUNTOS PARA ESPORTE, EXCETO DE MALHA; SERVIÇOS DE `1412-6/03`
+- SERVIÇO DE FACÇÃO DE PEÇAS DO VESTUÁRIO (EXCETO ROUPAS INTIMAS) `1412-6/03`
+
+### Classe 14.13-4: CONFECÇÃO DE ROUPAS PROFISSIONAIS
+
+**Inclui:**
+- a confecção de roupas profissionais (uniformes, macacões, etc.)
+
+**Inclui:**
+- a montagem de roupas profissionais (costura)
+- os serviços industriais de facção de roupas profissionais (costura de partes das roupas, corte, etc)
+
+**Não inclui:**
+- a fabricação de artefatos de tecido-não-tecido para segurança e proteção (gorros, máscaras protetoras e semelhantes) (32.92-2)
+- a fabricação de calçados para segurança (grupo 15.3)
+- a fabricação de acessórios para segurança pessoal e profissional (32.92-2)
+- a fabricação de roupas especiais resistentes a fogo (32.92-2)
+- a reparação ou conserto de roupas profissionais (95.29-1)
+
+#### 1413-4/01: CONFECÇÃO DE ROUPAS PROFISSIONAIS, EXCETO SOB MEDIDA
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- CONFECÇÃO DE CAPAS DE BORRACHA PARA USO PROFISSIONAL `1413-4/01`
+- CONFECÇÃO DE FARDAMENTOS MILITARES `1413-4/01`
+- CONFECÇÃO DE MACACÕES E OUTRAS ROUPAS PROFISSIONAIS `1413-4/01`
+- CONFECÇÃO DE PEÇAS AVULSAS DO VESTUÁRIO PARA FARDAMENTOS MILITARES `1413-4/01`
+- CONFECÇÃO DE PEÇAS AVULSAS DO VESTUÁRIO PARA UNIFORMES ESCOLARES `1413-4/01`
+- CONFECÇÃO DE ROUPAS PROFISSIONAIS `1413-4/01`
+- CONFECÇÃO DE UNIFORMES ESCOLARES `1413-4/01`
+- FABRICAÇÃO DE UNIFORMES PROFISSIONAIS `1413-4/01`
+
+#### 1413-4/02: CONFECÇÃO, SOB MEDIDA, DE ROUPAS PROFISSIONAIS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- CONFECÇÃO SOB MEDIDA DE FARDAMENTOS MILITARES `1413-4/02`
+- CONFECÇÃO SOB MEDIDA DE ROUPAS PROFISSIONAIS `1413-4/02`
+- CONFECÇÃO SOB MEDIDA DE UNIFORMES ESCOLARES `1413-4/02`
+
+#### 1413-4/03: FACÇÃO DE ROUPAS PROFISSIONAIS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE PARTES DE ROUPAS PROFISSIONAIS - FACÇÃO INDEPENDENTE
+
+Atividades:
+
+- SERVIÇO DE FACÇÃO DE ROUPAS PROFISSIONAIS `1413-4/03`
+
+### Classe 14.14-2: FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO, EXCETO PARA SEGURANÇA E PROTEÇÃO
+
+**Inclui:**
+- a fabricação de gravatas e lenços para todos os usos
+- a fabricação de cintos, suspensórios, luvas (inclusive de couro), etc.
+- a fabricação de leques, xales e echarpes
+- a fabricação de chapéus e suas partes, boinas, bonés, gorros, etc., de qualquer material
+
+**Inclui:**
+- a fabricação de artigos de peles
+
+**Não inclui:**
+- a fabricação de luvas produzidas em malharias e tricotagens (14.22-3)
+- a fabricação de bolsas de qualquer material (15.21-1)
+- a fabricação de calçados (grupo 15.3)
+- a fabricação de luvas e capacetes de couro para praticar esportes (32.30-2)
+- a fabricação de capacetes e outros acessórios para segurança pessoal e profissional (32.92-2)
+- a reparação ou conserto de peças do vestuário (95.29-1)
+
+#### 1414-2/00: FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO, EXCETO PARA SEGURANÇA E PROTEÇÃO
+
+- Simples Nacional: permitido
+- MEI: **sim**: BONELEIRO(A) (FABRICANTE DE BONÉS) INDEPENDENTE; CHAPELEIRO(A) INDEPENDENTE; FABRICANTE DE CINTOS/CINTEIRO INDEPENDENTE
+
+Atividades:
+
+- CONFECÇÃO DE LUVAS DE COURO (EXCETO PARA USO PROFISSIONAL E ESPORTIVO) `1414-2/00`
+- FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO DESCARTÁVEIS CONFECCIONADOS COM TECIDOS `1414-2/00`
+- FABRICAÇÃO DE BOINAS E GORROS `1414-2/00`
+- FABRICAÇÃO DE BONÉS DE QUALQUER MATERIAL `1414-2/00`
+- FABRICAÇÃO DE CHAPÉUS E SUAS PARTES, DE QUALQUER MATERIAL `1414-2/00`
+- FABRICAÇÃO DE CINTOS DE PLÁSTICO `1414-2/00`
+- FABRICAÇÃO DE CINTOS DE QUALQUER MATERIAL, PARA VESTUÁRIO `1414-2/00`
+- FABRICAÇÃO DE CINTOS DE TECIDOS `1414-2/00`
+- FABRICAÇÃO DE GRAVATAS `1414-2/00`
+- FABRICAÇÃO DE LENÇOS DE TECIDOS, PARA QUALQUER USO `1414-2/00`
+- FABRICAÇÃO DE LEQUES `1414-2/00`
+- FABRICAÇÃO DE LUVAS DE TECIDOS, INCLUSIVE TECIDOS DE MALHA `1414-2/00`
+- FABRICAÇÃO DE PELES FINAS DE ADORNO `1414-2/00`
+- FABRICAÇÃO DE SUSPENSÓRIOS DE QUALQUER MATERIAL `1414-2/00`
+- FABRICAÇÃO DE XALES E ECHARPES `1414-2/00`
+- PREPARAÇÃO DE PELES `1414-2/00`
+
+## Grupo 14.2: FABRICAÇÃO DE ARTIGOS DE MALHARIA E TRICOTAGEM
+
+### Classe 14.21-5: FABRICAÇÃO DE MEIAS
+
+**Inclui:**
+- a fabricação de meias para adultos e crianças
+- a fabricação de meias esportivas
+- a fabricação de meias-calças
+
+#### 1421-5/00: FABRICAÇÃO DE MEIAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FABRICANTE DE MEIAS INDEPENDENTE
+
+Atividades:
+
+- FABRICAÇÃO DE MEIAS PARA FINS ESPORTIVOS `1421-5/00`
+- FABRICAÇÃO DE MEIAS PARA QUALQUER USO `1421-5/00`
+- FABRICAÇÃO DE MEIAS-CALÇAS, INCLUSIVE ELÁSTICAS `1421-5/00`
+
+### Classe 14.22-3: FABRICAÇÃO DE ARTIGOS DO VESTUÁRIO, PRODUZIDOS EM MALHARIAS E TRICOTAGENS, EXCETO MEIAS
+
+**Inclui:**
+- a fabricação de artefatos de malharia e tricotagem (pulôveres, jaquetas, luvas, etc.)
+
+**Não inclui:**
+- a fabricação de artefatos do vestuário confeccionados a partir de tecidos planos e tecidos de malha (grupo 14.1)
+- a fabricação de meias (14.21-5)
+
+#### 1422-3/00: FABRICAÇÃO DE ARTIGOS DO VESTUÁRIO, PRODUZIDOS EM MALHARIAS E TRICOTAGENS, EXCETO MEIAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: CROCHETEIRO(A) INDEPENDENTE; TRICOTEIRO(A) INDEPENDENTE
+
+Atividades:
+
+- FABRICAÇÃO DE ARTIGOS DO VESTUÁRIO PRODUZIDOS A PARTIR DE LINHA OU LÃ (TRICOTAGEM) `1422-3/00`
+- FABRICAÇÃO DE PULÔVERES, SUÉTERES, JAQUETAS E OUTROS ARTIGOS DO VESTUÁRIO PRODUZIDOS EM TRICOTAGENS `1422-3/00`

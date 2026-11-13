@@ -1,0 +1,490 @@
+# Divisão 82: SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+
+Seção N: ATIVIDADES ADMINISTRATIVAS E SERVIÇOS COMPLEMENTARES
+
+Fonte: IBGE, CNAE-Subclasses 2.3 (API servicodados.ibge.gov.br). Simples Nacional e MEI: Resolução CGSN 140/2018, Anexos VI, VII e XI. Arquivo gerado por `scripts/gerar_cnae.mjs`; não edite à mão.
+
+Cada atividade aparece na ordem natural e termina com o código da subclasse, para que uma busca por palavra já mostre o código.
+
+## Grupo 82.1: SERVIÇOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO
+
+### Classe 82.11-3: SERVIÇOS COMBINADOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO
+
+**Inclui:**
+- o fornecimento de uma combinação ou de um pacote de serviços administrativos de rotina a empresas clientes, sob contrato, tais como: serviços de recepção, planejamento financeiro, contabilidade, arquivamento, preparação de material para envio por correio, etc.,
+- os centros de prestação de serviços às empresas ou escritórios virtuais
+
+**Não inclui:**
+- as unidades que fornecem uma equipe operacional para desenvolver todas as operações de uma empresa, que devem ser classificadas de acordo com a atividade que desenvolvem
+- as unidades que desenvolvem apenas uma atividade específica contida no conjunto destas atividades devem ser classificadas de acordo com a atividade específica
+
+#### 8211-3/00: SERVIÇOS COMBINADOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- CENTROS DE NEGÓCIOS, APOIO OPERACIONAL A EMPRESAS OU A PROFISSIONAIS LIBERAIS `8211-3/00`
+- CENTROS DE SERVIÇOS DE APOIO ÀS EMPRESAS `8211-3/00`
+- FORNECIMENTO DE COMBINAÇÃO DE SERVIÇOS DE RECEPÇÃO, PLANEJAMENTO FINANCEIRO, CONTABILIDADE, ARQUIVAMENTO, PREPARAÇÃO DE MATERIAL PARA ENVIO POR CORREIO, ETC. `8211-3/00`
+- SERVIÇOS ADMINISTRATIVOS COMBINADOS PARA TERCEIROS `8211-3/00`
+- SERVIÇOS DE ARQUIVAMENTO DE DOCUMENTOS `8211-3/00`
+- SERVIÇOS DE COWORKING; ESCRITORIOS COMPARTILHADOS `8211-3/00`
+- SERVIÇOS DE ESCRITÓRIO VIRTUAL `8211-3/00`
+- SERVIÇOS DE ORGANIZAÇÃO DE ARQUIVO DE DOCUMENTOS NO LOCAL DO CONTRATANTE `8211-3/00`
+- SERVIÇOS DE ORGANIZAÇÃO DE ARQUIVOS `8211-3/00`
+- SERVIÇOS DE PREPARO DE FOLHA DE PAGAMENTO `8211-3/00`
+
+### Classe 82.19-9: FOTOCÓPIAS, PREPARAÇÃO DE DOCUMENTOS E OUTROS SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO
+
+**Inclui:**
+- os serviços de fotocópias mecânicas ou eletrostáticas para terceiros
+- o serviço de preparo de documentos
+- o serviço de digitação de textos
+- os serviços de preenchimento de formulários, colocação de selos e despacho de correspondência, inclusive de material de publicidade
+- os serviços de apoio à secretaria
+- a redação de cartas e resumos
+- o serviço de transcrição de documentos
+- o serviço de plotagem
+
+**Inclui:**
+- os serviços de encadernação, quando combinada com a reprodução de cópias
+
+**Não inclui:**
+- a impressão de documentos por gráficas (impressão offset, impressão rápida, etc.) (18.11-3)
+- a impressão de material para uso industrial e comercial (18.13-0)
+- os serviços de microfilmagem (74.20-0)
+- os serviços de taquigrafia (82.99-7)
+
+#### 8219-9/01: FOTOCÓPIAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: FOTOCOPIADOR(A) INDEPENDENTE
+
+Atividades:
+
+- DIGITALIZAÇÃO PARA REPRODUÇÃO DE CÓPIAS `8219-9/01`
+- DIGITALIZAÇÃO PARA REPRODUÇÃO DE FOTOS `8219-9/01`
+- ESCANEAMENTO PARA REPRODUÇÃO DE CÓPIAS `8219-9/01`
+- LOJA COPIADORA `8219-9/01`
+- SERVIÇO DE CÓPIA FOTOSTÁTICA `8219-9/01`
+- SERVIÇO DE CÓPIA HELIOGRÁFICA `8219-9/01`
+- SERVIÇO DE ENCADERNAÇÃO COMBINADO COM A REPRODUÇÃO DE CÓPIAS `8219-9/01`
+- SERVIÇO DE PLOTAGEM `8219-9/01`
+- SERVIÇO DE REPRODUÇÃO DE DOCUMENTOS `8219-9/01`
+- SERVIÇOS DE CÓPIA XEROGRÁFICA `8219-9/01`
+- SERVIÇOS DE FOTOCÓPIA `8219-9/01`
+- SERVIÇOS DE FOTOPLOTAGEM `8219-9/01`
+- SERVIÇOS DE IMPRESSÃO A LASER `8219-9/01`
+- SERVIÇOS DE REPROGRAFIA `8219-9/01`
+- SERVIÇOS DE XEROCÓPIAS `8219-9/01`
+- SERVIÇOS DE XEROGRAFIAS `8219-9/01`
+- SERVIÇOS DE XEROX `8219-9/01`
+
+#### 8219-9/99: PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIORMENTE
+
+- Simples Nacional: permitido
+- MEI: **sim**: DIGITADOR(A) INDEPENDENTE
+
+Atividades:
+
+- PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO `8219-9/99`
+- REDAÇÃO DE CARTAS E RESUMOS `8219-9/99`
+- SERVIÇO DE ASSESSORIA PARA SOLICITAÇÃO DE VISTOS, PASSAPORTES E OUTROS DOCUMENTOS DE VIAGEM `8219-9/99`
+- SERVIÇO DE CONFERÊNCIA DE TEXTOS DIGITADOS POR TERCEIROS `8219-9/99`
+- SERVIÇO DE DATILOGRAFIA `8219-9/99`
+- SERVIÇO DE DIGITAÇÃO DE TEXTOS `8219-9/99`
+- SERVIÇO DE ENVIO DE CORRESPONDÊNCIA POR MALA DIRETA `8219-9/99`
+- SERVIÇO DE TRANSCRIÇÃO DE DOCUMENTOS `8219-9/99`
+- SERVIÇOS DE  SECRETARIA `8219-9/99`
+- SERVIÇOS DE DIGITAÇÃO DE FATURAS, DOCUMENTOS, CARNÊS `8219-9/99`
+- SERVIÇOS DE EDITORAÇÃO ELETRÔNICA `8219-9/99`
+- SERVIÇOS DE ELABORAÇÃO DE CARTÕES DE VISITA, CRACHÁS `8219-9/99`
+- SERVIÇOS DE ESTENOTIPIA `8219-9/99`
+- SERVIÇOS DE PREENCHIMENTO, SELAGEM E DESPACHO DE ENCOMENDAS `8219-9/99`
+- SERVIÇOS DE PREPARAÇÃO DE DOCUMENTAÇÃO PARA OBTENÇÃO DE PASSAPORTE OU CIDADANIA ESTRANGEIRA `8219-9/99`
+- SERVIÇOS DE ROTULAÇÃO E DESPACHO DE ENCOMENDAS E DOCUMENTOS POR CORREIO `8219-9/99`
+
+## Grupo 82.2: ATIVIDADES DE TELEATENDIMENTO
+
+### Classe 82.20-2: ATIVIDADES DE TELEATENDIMENTO
+
+**Inclui:**
+- as atividades de centros de recepção de chamadas e de respostas a chamadas dos clientes com operadores humanos e distribuição automática de chamadas
+- as atividades baseadas em sistemas de integração telefone-computador
+- os sistemas de resposta vocal interativa ou métodos similares para o recebimento de pedidos e fornecimento de informação sobre produtos
+- o atendimento telefônico a solicitações de consumidores ou de atendimento a reclamações
+
+**Inclui:**
+- os centros de emissão de chamadas telefônicas que usam métodos para vender ou promover mercadorias e serviços a possíveis clientes (telemarketing)
+- os centros de emissão de chamadas telefônicas para a realização de pesquisas de mercado e de opinião pública e atividades similares
+
+**Não inclui:**
+- os serviços de comunicação de pager (61.20-5)
+
+#### 8220-2/00: ATIVIDADES DE TELEATENDIMENTO
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- ATIVIDADES DE SISTEMAS DE INTEGRAÇÃO TELEFONE-COMPUTADOR `8220-2/00`
+- ATIVIDADES DE SISTEMAS DE RESPOSTA VOCAL INTERATIVA `8220-2/00`
+- CENTROS DE RECEPÇÃO DE CHAMADAS `8220-2/00`
+- SERVIÇO DE ATENDIMENTO A CLIENTES - SAC POR TELEFONE, POR TERCEIROS `8220-2/00`
+- SERVIÇO DE CALL CENTER `8220-2/00`
+- SERVIÇO DE CENTRAL DE RECADOS `8220-2/00`
+- SERVIÇO DE PRESTAÇÃO DE INFORMAÇÕES POR TELEFONE `8220-2/00`
+- SERVIÇO DE TELEATENDIMENTO `8220-2/00`
+- SERVIÇO PRESTADO POR TERCEIROS ATENDIMENTO A CLIENTES POR TELEFONE `8220-2/00`
+- SERVIÇO PRESTADO POR TERCEIROS CENTRAL DE ATENDIMENTO POR TELEFONE `8220-2/00`
+- SERVIÇOS DE CONSULTA SOBRE PRODUTOS POR TELEFONE `8220-2/00`
+- SERVIÇOS DE CONTACT CENTER `8220-2/00`
+- SERVIÇOS PRESTADOS POR TERCEIROS CONTATOS TELEFÔNICOS, RECADOS `8220-2/00`
+
+## Grupo 82.3: ATIVIDADES DE ORGANIZAÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS
+
+### Classe 82.30-0: ATIVIDADES DE ORGANIZAÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS
+
+**Inclui:**
+- as atividades de organização e promoção de feiras, leilões, congressos, convenções, conferências e exposições comerciais e profissionais, incluindo ou não o fornecimento de pessoal para operar a infra-estrutura dos lugares onde ocorrem esses eventos
+- a gestão de espaço para exposição para uso de terceiros
+- a organização de festas e eventos, familiares ou não, inclusive festas de formaturas
+- as atividades de gestão de casas de festas e eventos
+
+**Não inclui:**
+- os serviços de alimentação para eventos e recepções - bufê (56.20-1)
+- a organização, produção e promoção de eventos culturais (90.01-9)
+- a produção e promoção de eventos esportivos (93.19-1)
+
+#### 8230-0/01: SERVIÇOS DE ORGANIZAÇÃO DE FEIRAS, CONGRESSOS, EXPOSIÇÕES E FESTAS
+
+- Simples Nacional: permitido
+- MEI: **sim**: PROMOTOR(A) DE EVENTOS INDEPENDENTE
+
+Atividades:
+
+- ATIVIDADES DE GESTÃO DE ESPAÇO PARA EXPOSIÇÃO, PARA USO DE TERCEIROS `8230-0/01`
+- EXPOSIÇÃO DE ANIMAIS EM FEIRAS `8230-0/01`
+- GESTÃO DE PARQUE PARA FEIRAS AGROPECUÁRIAS `8230-0/01`
+- GESTÃO DE SHOW-ROOM `8230-0/01`
+- ORGANIZAÇÃO DE PARQUE DE LEILÃO DE GADO `8230-0/01`
+- SERVIÇO DE ORGANIZAÇÃO DE FESTAS `8230-0/01`
+- SERVIÇO DE ORGANIZAÇÃO DE FESTAS FAMILIARES `8230-0/01`
+- SERVIÇO DE ORGANIZAÇÃO DE FESTAS INFANTIS `8230-0/01`
+- SERVIÇO DE ORGANIZAÇÃO DE FORMATURAS `8230-0/01`
+- SERVIÇOS DE ORGANIZAÇÃO, PRODUÇÃO E PROMOÇÃO DE ENCONTROS E CONGRESSOS `8230-0/01`
+- SERVIÇOS DE ORGANIZAÇÃO, PRODUÇÃO E PROMOÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS `8230-0/01`
+- SERVIÇOS DE ORGANIZAÇÃO, PRODUÇÃO E PROMOÇÃO DE FEIRAS E EXPOSIÇÕES `8230-0/01`
+- SERVIÇOS DE REMATES RURAIS `8230-0/01`
+
+#### 8230-0/02: CASAS DE FESTAS E EVENTOS
+
+- Simples Nacional: permitido
+- MEI: **sim**: PROPRIETÁRIO(A) DE CASAS DE FESTAS E EVENTOS INDEPENDENTE
+
+Atividades:
+
+- ALUGUEL DE, LOCAÇÃO DE ESPAÇOS PARA EVENTOS `8230-0/02`
+- CASA DE EVENTOS, GESTÃO DE `8230-0/02`
+- GESTÃO DE CASA DE FESTAS `8230-0/02`
+- GESTÃO DE CASA DE RECEPÇÕES `8230-0/02`
+- GESTÃO DE INSTALAÇÕES PARA EVENTOS `8230-0/02`
+
+## Grupo 82.9: OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+
+### Classe 82.91-1: ATIVIDADES DE COBRANÇAS E INFORMAÇÕES CADASTRAIS
+
+**Inclui:**
+- as atividades de cobrança de faturas e de dívidas para clientes e a transferência aos clientes dos pagamentos recebidos
+- as atividades de compilação de informações, como históricos de crédito, de emprego, para empresas clientes
+- o fornecimento de informações sobre a capacidade de endividamento de pessoas e de empresas a instituições financeiras, ao comércio e a empresas de outras atividades que necessitam avaliar a capacidade de crédito de pessoas e empresas
+
+**Não inclui:**
+- os serviços advocatícios (69.11-7)
+
+#### 8291-1/00: ATIVIDADES DE COBRANÇAS E INFORMAÇÕES CADASTRAIS
+
+- Simples Nacional: permitido
+- MEI: **sim**: COBRADOR(A) DE DÍVIDAS INDEPENDENTE
+
+Atividades:
+
+- ATIVIDADES DE COBRANÇA DE FATURAS E DÍVIDAS DE CLIENTES `8291-1/00`
+- ATIVIDADES DE COMPILAÇÃO DE INFORMAÇÕES SOBRE HISTÓRICO DE CRÉDITO DE PESSOAS PARA EMPRESAS CLIENTES `8291-1/00`
+- ATIVIDADES DE GESTÃO DE CADASTRO POSITIVO DE PESSOAS FÍSICAS E JURÍDICAS PARA PAGAMENTO, CRÉDITO E CONSUMO `8291-1/00`
+- FORNECIMENTO DE INFORMAÇÕES SOBRE A CAPACIDADE DE ENDIVIDAMENTO DE PESSOAS E DE EMPRESAS `8291-1/00`
+- GESTÃO DE CADASTRO PARA RECEPÇÃO DE INFORMAÇÕES DE ADIMPLEMENTO `8291-1/00`
+- SERVIÇO DE INFORMAÇÕES PARA AVALIAÇÃO DE CAPACIDADE DE CRÉDITO DE PESSOAS E EMPRESAS `8291-1/00`
+- SERVIÇOS DE ANÁLISE DE CADASTRO PARA APROVAÇÃO DE CRÉDITO `8291-1/00`
+- SERVIÇOS DE ANÁLISE E APROVAÇÃO DE CRÉDITO `8291-1/00`
+- SERVIÇOS DE CONSULTA DE INFORMAÇÕES CADASTRAIS `8291-1/00`
+- SERVIÇOS DE CONSULTA SOBRE HISTÓRICO DE CRÉDITO DE PESSOAS POR TELEFONE `8291-1/00`
+- SERVIÇOS ESPECIALIZADOS DE RECUPERAÇÃO E RENEGOCIAÇÃO DE CRÉDITO `8291-1/00`
+
+### Classe 82.92-0: ENVASAMENTO E EMPACOTAMENTO SOB CONTRATO
+
+**Inclui:**
+- as atividades de envasamento, fracionamento e empacotamento para terceiros sob contrato, por processo automatizado ou não, tais como:
+  - o engarrafamento de produtos líquidos, incluindo alimentos e bebidas
+  - o empacotamento de sólidos (a vácuo, com papel alumínio, etc.)
+  - o envasamento em aerossóis
+  - o empacotamento de preparados farmacêuticos
+  - a embalagem de pacotes e de presentes
+  - a embalagem e a etiquetagem de produtos diversos
+
+**Não inclui:**
+- as atividades de produção de água mineral (11.21-6) e de refrigerantes (11.22-4)
+- as atividades de envasamento e fracionamento, quando realizadas pelo comércio atacadista (grupo 46.2) e (grupo 46.3)
+
+#### 8292-0/00: ENVASAMENTO E EMPACOTAMENTO SOB CONTRATO
+
+- Simples Nacional: permitido
+- MEI: **sim**: ENVASADOR(A) E EMPACOTADOR(A) INDEPENDENTE
+
+Atividades:
+
+- EMBALADORA DE PRODUTOS SÓLIDOS/LÍQUIDOS POR CONTA DE TERCEIROS `8292-0/00`
+- EMBALAMENTO DE PRODUTOS SÓLIDOS/LÍQUIDOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇO DE EMBALAGEM E ETIQUETAGEM DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇO DE EMPACOTADEIRA DE PRODUTOS SÓLIDOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇO DE EMPACOTAMENTO DE PREPARADOS FARMACÊUTICOS `8292-0/00`
+- SERVIÇO DE EMPACOTAMENTO DE PRODUTOS SÓLIDOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇO DE ENGARRAFAMENTO DE PRODUTOS LÍQUIDOS, POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇO DE ENVASAMENTO EM AEROSSÓIS SOB CONTRATO `8292-0/00`
+- SERVIÇO DE ENVASE DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ACONDICIONAMENTO DE PRODUTOS SÓLIDOS/LÍQUIDOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ACONDICIONAMENTO, FRACIONAMENTO E EMPACOTAMENTO DE ARROZ, ALGODÃO E FUMO, FORA DA UNIDADE AGRÍCOLA E NÃO COMPLEMENTAR AO CULTIVO `8292-0/00`
+- SERVIÇOS DE ACONDICIONAMENTO, FRACIONAMENTO E EMPACOTAMENTO DE PRODUTOS AGRÍCOLAS PARA TERCEIROS, SEM TRANSFORMAÇÃO, FORA DA UNIDADE AGRÍCOLA E NÃO COMPLEMENTAR AO CULTIVO `8292-0/00`
+- SERVIÇOS DE ENCARTELAGEM DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ENCARTELAMENTO DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ENSACAGEM DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ENVASAMENTO E EMPACOTAMENTO POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ENVASILHAMENTO DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ENVELOPAMENTO À VACUO `8292-0/00`
+- SERVIÇOS DE REEMBALAGEM DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE REEMBALAMENTO DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+- SERVIÇOS DE ROTULAGEM E ETIQUETAGEM DE PRODUTOS POR CONTA DE TERCEIROS `8292-0/00`
+
+### Classe 82.99-7: ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE
+
+**Inclui:**
+- os serviços de medição de consumo de energia elétrica, gás e água associados ou não com a manutenção de medidores de consumo, inclusive os serviços de ligação e corte de consumo, quando executados por terceiros
+- a emissão de vales-alimentação, vales-transporte e similares
+- os serviços de gravação de carimbos
+- as atividades de leiloeiros independentes
+- os serviços de levantamento de fundos para terceiros, inclusive para organizações filantrópicas, sob contrato
+- as concessionárias de loterias e as atividades de venda de bilhetes de jogos de sorte e apostas
+- as atividades realizadas mediante o uso de computadores e periféricos, conectados ou não a redes de comunicação, que propiciam a clientes serviços, tais como:
+  - acesso à internet para consultas, envio de e-mails ou qualquer outra finalidade
+  - outros usos de computadores e periféricos
+- os serviços de estenografia
+- os serviços de taquigrafia
+- os serviços de captação de imagens de reuniões e conferências ao vivo para serem transmitidas por circuito interno de televisão ou televisão aberta
+- os serviços de impressão e de colocação de código de barras para endereços postais
+- os serviços de avaliadores, exceto de seguros e imóveis
+- as atividades dos despachantes, exceto aduaneiros
+- os serviços de caráter privado de prevenção de incêndios (manutenção de extintores de incêndio)
+- a administração de cartões de desconto
+- as outras atividades de apoio às empresas não especificadas anteriormente
+
+**Inclui:**
+- o recebimento de contas de telefone, gás, luz, água e esgoto, etc. e de outros títulos de valores
+- os postos telefônicos
+
+**Não inclui:**
+- a fabricação de carimbos (32.99-0)
+- a manutenção de extintores de incêndio (33.14-7)
+- os serviços de medição de energia elétrica, quando executados por empresas de geração (35.11-5) e distribuição de energia elétrica (35.14-0)
+- os serviços de medição de consumo de gás, quando executados por empresas de produção e distribuição de gás (35.20-4)
+- os serviços de medição de consumo de água, quando executados por empresas de captação, tratamento e distribuição de água (36.00-6)
+- as atividades dos despachantes aduaneiros (52.50-8)
+- os serviços de avaliadores de seguros (66.21-5)
+- os serviços de avaliação de imóveis (68.21-8)
+- as atividades de contabilidade (69.20-6)
+- os serviços de desenho técnico relacionados à arquitetura e engenharia (71.19-7)
+- a criação de campanhas de publicidade (73.11-4)
+- a locação de mão-de-obra temporária (78.20-5)
+- a exploração de estabelecimentos de jogos eletrônicos recreativos (93.29-8)
+
+#### 8299-7/01: MEDIÇÃO DE CONSUMO DE ENERGIA ELÉTRICA, GÁS E ÁGUA
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- SERVIÇO DE MEDIÇÃO DE CONSUMO DE ÁGUA `8299-7/01`
+- SERVIÇO DE MEDIÇÃO DE CONSUMO DE GÁS `8299-7/01`
+- SERVIÇO DE MEDIÇÃO DE CONSUMO ENERGIA ELÉTRICA `8299-7/01`
+- SERVIÇOS DE LEITURA DE HIDRÔMETRO `8299-7/01`
+- SERVIÇOS DE LEITURA DE MEDIDORES DE ENERGIA, ÁGUA E LUZ `8299-7/01`
+- SERVIÇOS DE LEITURA DE MEDIDORES DE GÁS, LUZ E ÁGUA `8299-7/01`
+- SERVIÇOS DE LEITURA DE RELÓGIO DE ENERGIA/LUZ `8299-7/01`
+- SERVIÇOS DE LEITURA E ENTREGA DE CONTAS `8299-7/01`
+- SERVIÇOS DE LIGAÇÃO E CORTE DE ÁGUA `8299-7/01`
+- SERVIÇOS DE LIGAÇÃO E CORTE DE ENERGIA ELÉTRICA `8299-7/01`
+- SERVIÇOS DE LIGAÇÃO E CORTE DE GÁS `8299-7/01`
+- SERVIÇOS DE RELIGAÇÃO DE ÁGUA `8299-7/01`
+- SERVIÇOS DE RELIGAÇÃO DE ENERGIA ELÉTRICA `8299-7/01`
+- SERVIÇOS DE RELIGAÇÃO DE GÁS `8299-7/01`
+
+#### 8299-7/02: EMISSÃO DE VALES ALIMENTAÇÃO, VALES TRANSPORTE E SIMILARES
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- ADMINISTRAÇÃO DE INSTRUMENTOS DE PAGAMENTO AUTOMÁTICO DE ESTACIONAMENTOS `8299-7/02`
+- ADMINISTRAÇÃO DE INSTRUMENTOS DE PAGAMENTOS ACEITOS EXCLUSIVAMENTE EM UMA ÚNICA REDE DE ESTABELECIMENTOS `8299-7/02`
+- ADMINISTRAÇÃO DE INSTRUMENTOS DE PAGAMENTOS DE PROGRAMAS DE BENEFÍCIOS `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE INSTRUMENTOS DE PAGAMENTO AUTOMÁTICO DE PEDÁGIOS `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE TICKET FARMÁCIA, REMÉDIO `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE TICKET OU VALE ALIMENTAÇÃO `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE TICKET OU VALE COMBUSTÍVEL `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE TICKET OU VALE REFEIÇÃO `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE TICKET OU VALE RESTAURANTE `8299-7/02`
+- EMISSÃO E ADMINISTRAÇÃO DE VALES TRANSPORTE, BILHETE ELETRÔNICO DE TRANSPORTE `8299-7/02`
+
+#### 8299-7/03: SERVIÇOS DE GRAVAÇÃO DE CARIMBOS, EXCETO CONFECÇÃO
+
+- Simples Nacional: permitido
+- MEI: **sim**: GRAVADOR(A) DE CARIMBOS INDEPENDENTE
+
+Atividades:
+
+- SERVIÇO DE GRAVAÇÃO DE CARIMBOS `8299-7/03`
+
+#### 8299-7/04: LEILOEIROS INDEPENDENTES
+
+- Simples Nacional: **impeditivo**: este código não pode ser usado por empresa do Simples Nacional (Anexo VI da Resolução CGSN 140/2018)
+- MEI: não
+
+Atividades:
+
+- ATIVIDADE DE LEILOEIRO VIA INTERNET `8299-7/04`
+- SERVIÇO DE LEILOEIRO `8299-7/04`
+- SERVIÇO DE LEILOEIRO DE VEÍCULOS `8299-7/04`
+- SERVIÇO DE LEILOEIRO INDEPENDENTE `8299-7/04`
+- SERVIÇOS DE LEILOEIRO PÚBLICO `8299-7/04`
+- SERVIÇOS DE LEILOEIROS INDEPENDENTES LEILÃO, LEILÕES `8299-7/04`
+
+#### 8299-7/05: SERVIÇOS DE LEVANTAMENTO DE FUNDOS SOB CONTRATO
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- ADMINISTRAÇÃO DE FUNDOS DE FORMATURA `8299-7/05`
+- ATIVIDADES DE LEVANTAMENTO DE FUNDOS SOB CONTRATO `8299-7/05`
+- SERVIÇO DE LEVANTAMENTO DE FUNDOS PARA ORGANIZAÇÕES FILANTRÓPICAS `8299-7/05`
+- SERVIÇO DE LEVANTAMENTO DE FUNDOS PARA TERCEIROS `8299-7/05`
+- SERVIÇOS DE FINANCIAMENTO COLETIVO (CROWDFUNDING) `8299-7/05`
+
+#### 8299-7/06: CASAS LOTÉRICAS
+
+- Simples Nacional: permitido
+- MEI: não
+
+Atividades:
+
+- ATIVIDADE DE CONCESSIONÁRIA DE LOTERIAS `8299-7/06`
+- ATIVIDADE DE LOTERIA ESPORTIVA `8299-7/06`
+- ATIVIDADES DE VENDA DE CARTÕES DE RASPAR `8299-7/06`
+- CASA LOTÉRICA `8299-7/06`
+- RECEBIMENTO DE CONTAS DE TELEFÔNICA, GÁS, LUZ, ÁGUA, ESGOTO,  E DE OUTROS TÍTULOS DE VALORES QUANDO REALIZADO POR CORRESPONDENTE BANCÁRIO `8299-7/06`
+- VENDA DE BILHETES DE JOGO DA LOTO `8299-7/06`
+- VENDA DE BILHETES DE JOGO DA SENA `8299-7/06`
+- VENDA DE BILHETES DE LOTERIA `8299-7/06`
+- VENDA DE BILHETES DE LOTERIAS `8299-7/06`
+- VENDA DE BILHETES DE QUINA ESPORTIVA `8299-7/06`
+- VENDA DE BILHETES DE SENA ESPORTIVA `8299-7/06`
+- VENDA DE BILHETES JOGOS DE SORTE E APOSTAS `8299-7/06`
+
+#### 8299-7/07: SALAS DE ACESSO À INTERNET
+
+- Simples Nacional: permitido
+- MEI: **sim**: PROPRIETÁRIO(A) DE SALA DE ACESSO À INTERNET INDEPENDENTE
+
+Atividades:
+
+- ACESSO À INTERNET MEDIANTE O USO DE COMPUTADORES E PERIFÉRICOS `8299-7/07`
+- DISPONIBILIZAÇÃO DE COMPUTADORES E PERIFÉRICOS PARA USO TEMPORÁRIO PREDOMINANTE PARA APOIO ADMINISTRATIVO OU ESCRITÓRIO `8299-7/07`
+- LAN HOUSE COM ACESSO À INTERNET PREDOMINANTE PARA APOIO ADMINISTRATIVO OU ESCRITÓRIO `8299-7/07`
+- POSTO TELEFÔNICO `8299-7/07`
+- SALA DE ACESSO À INTERNET COMBINADO COM FAX , DIGITAÇÃO, ESCANEAMENTO, ETC `8299-7/07`
+- SALA DE ACESSO À INTERNET PARA APOIO ADMINISTRATIVO OU ESCRITÓRIO `8299-7/07`
+
+#### 8299-7/99: OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE
+
+- Simples Nacional: **ambíguo**: o código abrange atividades permitidas e proibidas no Simples; a empresa declara na opção que exerce só a parte permitida (Anexo VII da Resolução CGSN 140/2018)
+- MEI: **sim**: CARTAZISTA, PINTOR DE INDEPENDENTE
+
+Atividades:
+
+- ADMINISTRAÇÃO DE CARTÕES DE DESCONTO `8299-7/99`
+- ATIVIDADES DE  CONCESSÃO OU CLUBES DE DESCONTO `8299-7/99`
+- ATIVIDADES DE BOMBEIRO CIVIL (BRIGADISTA) `8299-7/99`
+- ATIVIDADES DE GUARDA VIDAS, SALVA VIDAS AQUÁTICO `8299-7/99`
+- ATIVIDADES DE PONTO DE ENTREGA DE MERCADORIAS PARA TERCEIROS `8299-7/99`
+- ESCRITÓRIO DE REPRESENTAÇÃO - FILIAL DE EMPRESA ESTRANGEIRA, EXCETO DE BANCOS ESTRANGEIROS `8299-7/99`
+- INTERMEDIAÇÃO NA VENDA DE ASSINATURA DE TELEVISÃO POR CABO, POR SATÉLITE OU POR MICROONDAS `8299-7/99`
+- POSTO, AGÊNCIA DE COLETA DE ANÚNCIOS DE JORNAIS INDEPENDENTE `8299-7/99`
+- POSTO, AGÊNCIA EM ESTABELECIMENTOS COMERCIAIS PARA PAGAMENTO DE CONTAS DE LUZ, GÁS, ETC. `8299-7/99`
+- PROMOÇÃO, VENDA SOB CONTRATO TÍTULOS DE CLUBES `8299-7/99`
+- SERVIÇO DE ALMOXARIFADO `8299-7/99`
+- SERVIÇO DE ARRUMAÇÃO DE ESTOQUE `8299-7/99`
+- SERVIÇO DE AVALIADORES, EXCETO DE SEGUROS E IMÓVEIS `8299-7/99`
+- SERVIÇO DE CAPTAÇÃO DE IMAGENS DE REUNIÕES E CONFERÊNCIAS AO VIVO (VIDEOCONFERÊNCIA) `8299-7/99`
+- SERVIÇO DE CARTAZISTA `8299-7/99`
+- SERVIÇO DE COLETA DE BOTIJÃO DE GÁS `8299-7/99`
+- SERVIÇO DE CONTROLE DE ESTOQUES `8299-7/99`
+- SERVIÇO DE DESPACHANTES, EXCETO ADUANEIROS `8299-7/99`
+- SERVIÇO DE DISTRIBUIÇÃO DE DIÁRIO OFICIAL DA UNIÃO `8299-7/99`
+- SERVIÇO DE ESTENOGRAFIA `8299-7/99`
+- SERVIÇO DE INVENTARIO DE BENS `8299-7/99`
+- SERVIÇO DE INVENTÁRIOS DE ESTOQUES `8299-7/99`
+- SERVIÇO DE MANUTENÇÃO DE AQUÁRIOS `8299-7/99`
+- SERVIÇO DE PINTURA DE FAIXAS `8299-7/99`
+- SERVIÇO DE PINTURA DE LETRAS `8299-7/99`
+- SERVIÇO DE PREVENÇÃO DE INCÊNDIO POR EMPRESA PRIVADA `8299-7/99`
+- SERVIÇO DE REPOSIÇÃO DE ESTOQUES `8299-7/99`
+- SERVIÇO DE TAQUIGRAFIA `8299-7/99`
+- SERVIÇOS DE ADESIVAMENTO PARA FINS PUBLICITÁRIOS, PROPAGANDA `8299-7/99`
+- SERVIÇOS DE ADESIVAMENTO, ENVELOPAMENTO, PLOTAGEM DE VEÍCULOS PARA FINS PUBLICITÁRIOS, PROPAGANDA `8299-7/99`
+- SERVIÇOS DE ADMINISTRAÇÃO DE CARTÃO CONVÊNIO `8299-7/99`
+- SERVIÇOS DE ADMINISTRAÇÃO DE LISTA DE PRESENTES `8299-7/99`
+- SERVIÇOS DE ADMINISTRAÇÃO DE PROGRAMAS DE FIDELIDADE, RELACIONAMENTO `8299-7/99`
+- SERVIÇOS DE BRIGADA DE INCÊNDIO DE EMPRESA PRIVADA `8299-7/99`
+- SERVIÇOS DE CAPACITAÇÃO DE PESSOAS PARA PREVENÇÃO DE INCÊNDIOS `8299-7/99`
+- SERVIÇOS DE CAPTAÇÃO DE CLIENTES `8299-7/99`
+- SERVIÇOS DE DECORAÇÃO DE FESTAS E EVENTOS, EXCETO ORGANIZAÇÃO `8299-7/99`
+- SERVIÇOS DE DESPACHANTE DOCUMENTALISTA `8299-7/99`
+- SERVIÇOS DE DESPACHANTES LEGALIZAÇÃO DE AUTOMÓVEIS `8299-7/99`
+- SERVIÇOS DE DESPACHANTES LEGALIZAÇÃO DE MOTOS `8299-7/99`
+- SERVIÇOS DE DESPACHANTES LEGALIZAÇÃO DE VEÍCULOS `8299-7/99`
+- SERVIÇOS DE DESPACHANTES PARA EMPLACAMENTO DE VEÍCULOS `8299-7/99`
+- SERVIÇOS DE DESPACHANTES PARA RECURSO DE MULTAS DE TRÂNSITO `8299-7/99`
+- SERVIÇOS DE DESTROCA DE BOTIJÕES DE GÁS `8299-7/99`
+- SERVIÇOS DE DOTS `8299-7/99`
+- SERVIÇOS DE EMPLACAMENTO DE VEÍCULOS `8299-7/99`
+- SERVIÇOS DE ENVELOPAMENTO DE MÓVEIS `8299-7/99`
+- SERVIÇOS DE GESTÃO E ADMINISTRAÇÃO DE DEPÓSITOS DE MERCADORIAS `8299-7/99`
+- SERVIÇOS DE GRAVAÇÃO DO NÚMERO DO CHASSI EM PEÇAS DE VEÍCULOS AUTOMOTORES `8299-7/99`
+- SERVIÇOS DE IMPRESSÃO DE DOCUMENTOS OFICIAIS EMITIDOS DIGITALMENTE `8299-7/99`
+- SERVIÇOS DE INTERMEDIAÇÃO NA COMPRA E VENDA DE PONTOS OU MILHAS OU SIMILARES ADQUIRIDOS EM PROGRAMAS DE FIDELIDADE, RELACIONAMENTOS `8299-7/99`
+- SERVIÇOS DE MANUSEIO DE DOCUMENTOS `8299-7/99`
+- SERVIÇOS DE MONTAGEM, COLOCAÇÃO DE ENCARTES EM JORNAIS `8299-7/99`
+- SERVIÇOS DE OPERAÇÃO DE RADARES PARA ÓRGÃOS PÚBLICOS `8299-7/99`
+- SERVIÇOS DE PROSPECÇÃO DE CLIENTES, EXCETO POR TELEMARKETING `8299-7/99`
+- SERVIÇOS DE REPOSIÇÃO DE MERCADORIAS EM SUPERMERCADOS `8299-7/99`
+- SERVIÇOS DE REPOSIÇÃO DE MERCADORIAS EXTERNAS PARA VENDA `8299-7/99`
+- SERVIÇOS DE REPOSIÇÃO DE PRODUTOS EM SUPERMERCADOS, ESTABELECIMENTOS COMERCIAIS `8299-7/99`
+- SERVIÇOS DE REPOSITOR DE MERCADORIAS EM ESTABELECIMENTOS COMERCIAIS `8299-7/99`
+- SERVIÇOS DE SALVAMENTO AQUÁTICO DE PESSOAS `8299-7/99`
+- SERVIÇOS DE SONORIZAÇÃO PARA TELEFONE `8299-7/99`
+- SERVIÇOS DE VISTORIA DE AUTOMÓVEIS PARA VENDA, AVALIAÇÃO, SEGURO, DOCUMENTAL OU LEGALIZAÇÃO `8299-7/99`

@@ -9,7 +9,7 @@ Você ajuda empreendedores a escolher os CNAEs do CNPJ e o enquadramento tribut�
 
 ## Onde estão os dados
 
-Os caminhos abaixo ficam ao lado deste `SKILL.md` quando a skill é instalada pelo pacote `.zip`, ou na raiz do repositório `cnae-facil` quando você está nele. Se os arquivos não estiverem em nenhum dos dois lugares, leia direto do GitHub trocando o caminho por `https://raw.githubusercontent.com/Lucasp74/cnae-facil/main/<caminho>`.
+Os caminhos abaixo ficam ao lado deste `SKILL.md` quando a skill é instalada como plugin ou pelo pacote `.zip`, ou na raiz do repositório `cnae-facil` quando você está nele. Se os arquivos não estiverem em nenhum dos dois lugares, leia direto do GitHub trocando o caminho por `https://raw.githubusercontent.com/Lucasp74/cnae-facil/main/<caminho>`.
 
 | Caminho | O que tem |
 |---|---|

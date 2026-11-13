@@ -31,7 +31,24 @@ Descubra quais CNAEs colocar no CNPJ do seu negócio, de qualquer ramo, e qual e
 
 ## Como usar
 
-### Com o Claude Code
+### Instale o plugin no Claude Code
+
+Dentro de uma sessão do Claude Code (terminal ou aba Code do app), rode:
+
+```
+/plugin marketplace add Lucasp74/cnae-facil
+/plugin install cnae-facil@cnae-facil
+```
+
+Depois pergunte, por exemplo: *"Vou abrir uma loja de bolos caseiros com entrega. Quais CNAEs uso e como pago menos imposto?"*. A skill é ativada sozinha, ou chame com `/cnae-facil:cnae-facil`.
+
+Para receber atualizações: `/plugin marketplace update cnae-facil`.
+
+### No chat do Claude (claude.ai e app)
+
+Baixe o [pacote da skill](https://github.com/Lucasp74/cnae-facil/releases/latest/download/cnae-facil-skill.zip) e envie em **Configurações → Skills → + Adicionar**. A skill precisa da execução de código ligada.
+
+### Clonando o repositório
 
 ```bash
 git clone https://github.com/Lucasp74/cnae-facil.git
@@ -39,9 +56,7 @@ cd cnae-facil
 claude
 ```
 
-Pergunte, por exemplo: *"Vou abrir uma loja de bolos caseiros com entrega. Quais CNAEs uso e como pago menos imposto?"*. A skill `cnae-facil` é carregada automaticamente nesta pasta.
-
-Para usar a skill em qualquer projeto, copie a pasta [.claude/skills/cnae-facil](.claude/skills/cnae-facil) para `~/.claude/skills/`. Ela lê os dados direto do GitHub quando o repositório não está na máquina.
+A skill `cnae-facil` é carregada automaticamente nesta pasta.
 
 ### Com outras IAs
 
@@ -61,7 +76,8 @@ Clone o repositório e peça para a IA seguir o [AGENTS.md](AGENTS.md). Ou copie
 | [cnae/](cnae/) | As 87 divisões da CNAE 2.3, uma por arquivo, geradas da API do IBGE |
 | [regras/](regras/) | MEI, Simples Nacional e Fator R, códigos antigos |
 | [dados/](dados/) | Listas oficiais da Resolução CGSN 140/2018: ocupações do MEI e CNAEs proibidos no Simples |
-| [.claude/skills/cnae-facil/](.claude/skills/cnae-facil/SKILL.md) | Skill do Claude Code |
+| [.claude/skills/cnae-facil/](.claude/skills/cnae-facil/SKILL.md) | Skill do Claude Code (texto original) |
+| [plugin/](plugin/) | Plugin instalável, gerado por `node scripts/empacotar.mjs` |
 | [scripts/gerar_cnae.mjs](scripts/gerar_cnae.mjs) | Gera a pasta `cnae/` (`node scripts/gerar_cnae.mjs`) |
 
 ## Fontes
