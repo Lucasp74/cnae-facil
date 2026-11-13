@@ -1,8 +1,8 @@
 // Atualiza a barra de doações (assets/apoio.svg) e o valor no README.
 //
 //   node scripts/doacao.mjs 350          -> define o total arrecadado à mão
-//   node scripts/doacao.mjs --mercadopago -> soma as doações pelo link do Mercado Pago (precisa da
-//                                            variável MP_ACCESS_TOKEN) e as de dados/doacoes-manuais.json
+//   node scripts/doacao.mjs --mercadopago -> soma os pagamentos feitos pelo link de doação do Mercado Pago
+//                                            (precisa da variável MP_ACCESS_TOKEN) e os de dados/doacoes-manuais.json
 //   node scripts/doacao.mjs --teste      -> confere os cálculos
 import { readFileSync, writeFileSync } from "node:fs";
 
@@ -36,40 +36,56 @@ export function svg(total) {
 export const atualizaReadme = (texto, total) =>
   texto.replace(/R\$ [\d.]+,\d{2} de R\$ [\d.]+,\d{2} \(\d+%\)/g, `${reais(total)} de ${reais(META)} (${porcentagem(total)}%)`);
 
-async function totalMercadoPago() {
+// Doação usada como referência: o primeiro pagamento feito pelo link de doação (R$ 1, 13/11/2026).
+// Todo pagamento que veio do mesmo link conta como doação. O link de pagamento só é usado para doações,
+// então isso separa as doações das outras vendas da conta.
+const REFERENCIA = "189357668020";
+
+async function api(caminho, parametros = {}) {
   const token = process.env.MP_ACCESS_TOKEN;
   if (!token) throw new Error("MP_ACCESS_TOKEN não definido");
+  const url = new URL(caminho, "https://api.mercadopago.com");
+  Object.entries(parametros).forEach(([k, v]) => url.searchParams.set(k, v));
+  const r = await fetch(url, { headers: { Authorization: `Bearer ${token}` } });
+  if (!r.ok) throw new Error(`Mercado Pago respondeu ${r.status} em ${url.pathname}`);
+  return r.json();
+}
+
+// O link de pagamento cria uma preferência; cada pagamento por ele fica num pedido (merchant order)
+// com o id dessa preferência e o título do link. Pagamentos sem pedido (Pix na chave, maquininha) não são do link.
+async function origem(p) {
+  if (!p.order?.id) return null;
+  const pedido = await api(`/merchant_orders/${p.order.id}`);
+  return { preferencia: pedido.preference_id || null, titulo: pedido.items?.[0]?.title?.trim() || null };
+}
+
+// Mesmo link: mesma preferência ou, se o link gerar uma preferência por visita, mesmo título.
+export const mesmoLink = (o, ref) =>
+  !!o && ((!!ref.preferencia && o.preferencia === ref.preferencia) || (!!ref.titulo && o.titulo === ref.titulo));
+
+async function totalMercadoPago() {
+  const ref = await origem(await api(`/v1/payments/${REFERENCIA}`));
+  if (!ref || (!ref.preferencia && !ref.titulo))
+    throw new Error(`O pagamento de referência ${REFERENCIA} não tem pedido do link; confira o número em scripts/doacao.mjs.`);
+
   const pagamentos = [];
   for (let offset = 0; ; offset += 100) {
-    const url = new URL("https://api.mercadopago.com/v1/payments/search");
-    Object.entries({ sort: "date_created", criteria: "desc", range: "date_created", begin_date: INICIO, end_date: "NOW", limit: 100, offset })
-      .forEach(([k, v]) => url.searchParams.set(k, v));
-    const r = await fetch(url, { headers: { Authorization: `Bearer ${token}` } });
-    if (!r.ok) throw new Error(`Mercado Pago respondeu ${r.status}: ${(await r.text()).slice(0, 200)}`);
-    const { results, paging } = await r.json();
+    const { results, paging } = await api("/v1/payments/search", {
+      sort: "date_created", criteria: "desc", range: "date_created", begin_date: INICIO, end_date: "NOW", limit: 100, offset,
+    });
     pagamentos.push(...results);
     if (offset + 100 >= paging.total) break;
   }
-  const aprovados = pagamentos.filter(p => p.status === "approved");
-  const doacoes = aprovados.filter(ehDoacao);
-  // O repositório e o log da Action são públicos, e a conta recebe outros pagamentos:
-  // nunca mostre valores ou dados de pagamentos que não são doações.
-  console.log(`Pagamentos aprovados na conta desde ${INICIO}: ${aprovados.length}. Doações identificadas: ${doacoes.length}.`);
-  for (const p of doacoes) console.log(`- ${p.date_approved?.slice(0, 10)} ${reais(p.transaction_amount)} ${p.payment_method_id}`);
-  // Diagnóstico do teste de R$ 1: mostra só os campos que podem identificar o link de doação.
-  for (const p of aprovados.filter(p => p.transaction_amount === 1)) {
-    console.log("Teste R$ 1:", JSON.stringify({
-      description: p.description, external_reference: p.external_reference, operation_type: p.operation_type,
-      payment_method_id: p.payment_method_id, poi: p.point_of_interaction?.type, poi_sub: p.point_of_interaction?.sub_type,
-      item: p.additional_info?.items?.[0]?.title, metadata: Object.keys(p.metadata || {}),
-    }));
-  }
+  const doacoes = [];
+  for (const p of pagamentos.filter(p => p.status === "approved"))
+    if (mesmoLink(await origem(p), ref)) doacoes.push(p);
+
+  // O repositório e o log da Action são públicos, e a conta recebe outras vendas:
+  // o log mostra só as doações (data e valor), nunca quem doou nem nada das outras vendas.
+  console.log(`Link de doação reconhecido por ${ref.preferencia ? "preferência" : "título"}. Doações: ${doacoes.length}.`);
+  for (const p of doacoes) console.log(`- ${p.date_approved?.slice(0, 10)} ${reais(p.transaction_amount)}`);
   return doacoes.reduce((s, p) => s + p.transaction_amount, 0);
 }
-
-// Como reconhecer um pagamento feito pelo link de doação. Será definido depois do teste de R$ 1;
-// até lá nenhum pagamento da API é contado, para não somar outras vendas da conta.
-const ehDoacao = p => false;
 
 // Pix feitos direto para a chave não têm como ser separados das outras vendas pela API.
 // Eles entram à mão em dados/doacoes-manuais.json.
@@ -81,6 +97,10 @@ function teste() {
   ok(reais(1234.5) === "R$ 1.234,50", `reais: ${reais(1234.5)}`);
   ok(porcentagem(350) === 7 && porcentagem(9999) === 100, "porcentagem");
   ok(svg(350).includes('width="42"') && svg(9999).includes('width="600" height="12" rx="6" fill="#9be38a"'), "largura da barra");
+  const ref = { preferencia: "1-a", titulo: "Doação" };
+  ok(mesmoLink({ preferencia: "1-a", titulo: "x" }, ref) && mesmoLink({ preferencia: "1-b", titulo: "Doação" }, ref), "mesmo link");
+  ok(!mesmoLink(null, ref) && !mesmoLink({ preferencia: "2", titulo: "Camiseta" }, ref), "outra venda");
+  ok(!mesmoLink({ preferencia: null, titulo: null }, { preferencia: null, titulo: null }), "referência vazia");
   ok(atualizaReadme("x R$ 0,00 de R$ 5.000,00 (0%) y", 350) === "x R$ 350,00 de R$ 5.000,00 (7%) y", "readme");
   console.log("OK");
 }
