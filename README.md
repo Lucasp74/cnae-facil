@@ -13,11 +13,13 @@
 
 <p align="center"><a href="https://link.mercadopago.com.br/cnaefacil"><strong>Doe qualquer valor pelo Mercado Pago</strong></a><br>Pix, cartão ou boleto</p>
 
-<p align="center">Ou use a chave Pix aleatória:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
+<p align="center">Ou copie a chave Pix:<br><code>8f7ec13f-121a-4f03-8438-3a35b502a945</code></p>
 
 ## O que é
 
 Descubra quais CNAEs colocar no CNPJ do seu negócio, de qualquer ramo, e qual enquadramento paga menos imposto dentro da lei. Os dados são oficiais (IBGE e Receita Federal) e estão em Markdown, prontos para você ler e para o Claude, o ChatGPT ou qualquer IA usar.
+
+<p align="center"><a href="https://github.com/Lucasp74/cnae-facil/releases/latest/download/cnae-facil-skill.zip"><img src="assets/botao-baixar.svg" alt="Baixar a skill para o Claude (cnae-facil-skill.zip)" width="360"></a><br><a href="#no-chat-do-claude-claudeai-e-app">Como instalar</a></p>
 
 > [!WARNING]
 > Este repositório é informativo e não substitui um contador. Valide a escolha dos CNAEs e do regime tributário antes de registrar ou alterar sua empresa.
@@ -46,7 +48,15 @@ Para receber atualizações: `/plugin marketplace update cnae-facil`.
 
 ### No chat do Claude (claude.ai e app)
 
-Baixe o [pacote da skill](https://github.com/Lucasp74/cnae-facil/releases/latest/download/cnae-facil-skill.zip) e envie em **Configurações → Skills → + Adicionar**. A skill precisa da execução de código ligada.
+<p><a href="https://github.com/Lucasp74/cnae-facil/releases/latest/download/cnae-facil-skill.zip"><img src="assets/botao-baixar.svg" alt="Baixar a skill para o Claude (cnae-facil-skill.zip)" width="360"></a></p>
+
+1. Clique no botão acima. O arquivo `cnae-facil-skill.zip` (cerca de 480 KB) vai para a pasta de downloads. **Não descompacte.**
+2. No Claude, abra **Configurações → Skills**, clique em **+ Adicionar** e escolha a opção de enviar uma skill.
+3. Selecione o arquivo `cnae-facil-skill.zip` e confirme. A skill aparece na aba **Meus**: deixe-a ativada.
+4. Confira se a execução de código está ligada, em **Configurações → Recursos**.
+5. Abra um chat novo e pergunte, por exemplo: *"Qual CNAE uso para uma padaria e como pago menos imposto?"*.
+
+O botão sempre baixa a versão mais recente. Versões anteriores ficam em [Releases](https://github.com/Lucasp74/cnae-facil/releases).
 
 ### Clonando o repositório
 
