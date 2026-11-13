@@ -33,6 +33,24 @@ Descubra quais CNAEs colocar no CNPJ do seu negócio, de qualquer ramo, e qual e
 
 ## Como usar
 
+### Atalho com "/"
+
+Depois de instalar, a skill é ativada sozinha quando você fala de CNAE, CNPJ, MEI ou Simples Nacional. Para chamá-la direto, digite `/` na caixa de mensagem, escolha o comando da tabela e escreva a pergunta na mesma linha:
+
+| Onde você instalou | Comando |
+|---|---|
+| Plugin no Claude Code | `/cnae-facil:cnae-facil` |
+| Pacote `.zip` no app ou no claude.ai | `/anthropic-skills:cnae-facil` |
+| Repositório clonado, abrindo o Claude Code na pasta | `/cnae-facil` |
+
+Exemplo:
+
+```
+/cnae-facil:cnae-facil Vou abrir uma padaria que fabrica e vende pão. Qual CNAE uso e como pago menos imposto?
+```
+
+Não precisa decorar: digite `/cnae` e o Claude mostra o comando certo na lista.
+
 ### Instale o plugin no Claude Code
 
 Dentro de uma sessão do Claude Code (terminal ou aba Code do app), rode:
@@ -54,7 +72,7 @@ Para receber atualizações: `/plugin marketplace update cnae-facil`.
 2. No Claude, abra **Configurações → Skills**, clique em **+ Adicionar** e escolha a opção de enviar uma skill.
 3. Selecione o arquivo `cnae-facil-skill.zip` e confirme. A skill aparece na aba **Meus**: deixe-a ativada.
 4. Confira se a execução de código está ligada, em **Configurações → Recursos**.
-5. Abra um chat novo e pergunte, por exemplo: *"Qual CNAE uso para uma padaria e como pago menos imposto?"*.
+5. Abra um chat novo e pergunte, por exemplo: *"Qual CNAE uso para uma padaria e como pago menos imposto?"*. Ou chame direto com `/anthropic-skills:cnae-facil` seguido da pergunta.
 
 O botão sempre baixa a versão mais recente. Versões anteriores ficam em [Releases](https://github.com/Lucasp74/cnae-facil/releases).
 
@@ -66,7 +84,7 @@ cd cnae-facil
 claude
 ```
 
-A skill `cnae-facil` é carregada automaticamente nesta pasta.
+A skill é carregada automaticamente nesta pasta. Chame com `/cnae-facil` seguido da pergunta.
 
 ### Com outras IAs
 
